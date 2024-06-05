@@ -1,0 +1,74 @@
+For my research project "Don't Publish, Don't Perish," here's a clear, programmatic approach to guide the research assistant (RA) through the data collection process:
+
+Step-by-Step Data Collection Guide for RAs
+
+Understanding the Objective:
+
+The project aims to study publication patterns of economics PhD graduates compared to other disciplines, focusing on the absence of peer-reviewed publications at the time of graduation.
+
+Initial Setup:
+
+Ensure you have access to the provided CSV files containing preliminary data of scholars from Dalhousie University, the University of Calgary, and McGill University.
+
+Familiarize yourself with the codebook which defines the variables and data to be collected.
+
+Accessing Department Websites:
+
+Navigate to the economics department's web pages
+
+https://www.dal.ca/faculty/science/economics/faculty-staff/our-faculty.html
+https://arts.ucalgary.ca/economics/contact/economics-directory/full-time-faculty
+https://www.mcgill.ca/economics/people
+
+Use the CSV files to find specific professors listed. These files include names and, in some cases, academic ranks.
+
+Dalhousie_Economics_Faculty.csv 
+Calgary_Economics_Faculty.csv   
+McGill_Economics_Faculty.csv    
+
+Data Collection from Individual Profiles:
+
+For each professor, click through to their personal or professional page to collect further information:
+
+Highest Degree and Institution: Identify the institution from which they received their highest degree (e.g., PhD from Harvard).
+
+Year of Degree: Record the year they obtained their highest degree.
+
+For a complete list of informations to collect, please see Academic_Scholar_Codebook.csv
+
+for a full examples of collected data, see dpdp_ubc_economomics.csv
+
+CV Download and Analysis:
+
+Download the CV of each scholar, typically available on their profile.
+
+Refer to a similar folder structure as provided in the UBC example for organizing downloaded CVs (UBC_ECON).
+
+Filling Out the Data Sheet:
+
+Using the scholars’ CVs and online websites (sometimes you have to click a few links), complete the CSV file according to the following details:
+
+Peer-reviewed Publications at PhD Completion: Note the number of publications at the time of obtaining their PhD (often zero for economists).
+
+First Publication Post-PhD: Calculate the years after PhD completion until the first peer-reviewed publication.
+
+Total Career Publications: Count the total number of peer-reviewed publications over their career.
+
+For a full list of the variables to collect, see Academic_Scholar_Codebook.csv
+
+Reference and Verification:
+
+Use the example CSV from UBC as a model to ensure consistency in how data is recorded and formatted.
+Double-check each entry for accuracy against the CV and the department’s website.
+
+Documentation and Notes:
+
+Maintain notes on any anomalies or unique findings during data collection in the 'Notes' section of the CSV.
+
+Regular Updates and Sync:
+
+If you have any questions during the data collection, do not hesitate to contact me.
+
+Regularly update the lead researcher on your progress and clarify any doubts regarding the data collection process or interpretations.
+
+This structured guide should help ensure that the data collected is accurate and comprehensive, adhering closely to the research project's goals and methodology.

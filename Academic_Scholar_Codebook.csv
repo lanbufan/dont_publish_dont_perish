@@ -1,0 +1,18 @@
+VariableName,Collect,Definition
+NameRaw,No,The name of the scholar.
+AcademicRank,Yes,"The academic rank of the professor, which can be assistant, associate, or full professor."
+HD,Yes,The highest degree earned by the scholar.
+HDSchool,Yes,The school where the scholar earned their highest degree.
+HDYear,Yes,The year the scholar received their highest degree.
+NoPPubGrad,Yes,Number of peer-reviewed publications by the scholar by the time they completed their highest degree.
+FirstPPubYearRel,Yes,Relative year of the scholar's first peer-reviewed publication post-highest degree completion. If the scholar got her PhD in 1990 and she published here first peer-reviewed article in 1991. then you would put 1. If the first article is published in 1988 you put -2
+TotalPPub,Yes,Total number of peer-reviewed publications published by the scholar.
+TotalYearPhD,Yes,Total years taken by the scholar to complete their highest degree.
+TotalPPubYearEnd,Yes,Year of the last update to the scholar's CV.
+YearAvgPPubStartGrad,,Average number of peer-reviewed publications per year since starting highest degree.
+YearAvgPPubEndPhD,,Average number of peer-reviewed publications per year since completing PhD or highest degree.
+TotalWorkingPaper,,Total number of working papers (common CV section in economics).
+TotalWorkInProgress,,Total number of works in progress (common CV section in economics).
+TotalOtherPub,,Total number of other publications listed in the scholar's CV or website.
+TotalBook,,Total number of books published by the scholar (book chapter doe NOT count.
+Notes,,Notes about any relevant information or anomalies observed during data collection.
