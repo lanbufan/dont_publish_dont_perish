@@ -1,29 +1,29 @@
-Name,Email,Research Interests
-Anca Alecsandru,Anca.Alecsandru@concordia.ca,
-Christian Belzil,christian.belzil@concordia.ca,
-Jan Victor Dee,janvictor.dee@concordia.ca,"Industrial Organization, Econometrics"
-Effrosyni Diamantoudi,effrosyni.diamantoudi@concordia.ca,"Game Theory, Coalition Formation, Cartel Stability, Environmental Economics, International Environmental Agreements"
-Prosper Dovonon,Prosper.Dovonon@concordia.ca,
-Paul Gomme,Paul.Gomme@concordia.ca,"Macroeconomics, monetary economics, fiscal policy, unemployment insurance, business cycles"
-Jorgen Hansen,Jorgen.Hansen@concordia.ca,"Labor supply, Economics of education"
-Ian Irvine,ian.irvine@concordia.ca,Tobacco use and policy; cannabis legalization; vaping and smoking
-Heejeong Kim,heejeong.kim@concordia.ca,"Macroeconomics, Business Cycles, Wealth Inequality"
-Tatyana Koreshkova,tatyana.koreshkova@concordia.ca,"Macroeconomics, Health and Ageing, Human Capital, Public Policy, Economic Development"
-Moshe Lander,moshe.lander@concordia.ca,
-Carol Chui Ha Lau,carol.lau@concordia.ca,
-Greg LeBlanc,greg.leblanc@concordia.ca,
-Ming Li,ming.li@concordia.ca,game theory; microeconomics; political economics
-Damba Lkhagvasuren,damba.lkhagvasuren@concordia.ca,
-Dipjyoti Majumdar,dipjyoti.majumdar@concordia.ca,
-Panos Margaris,panos.margaris@concordia.ca,"Inequality, Human Capital, Economics of Obesity, Taxation"
-James McIntosh,james.mcintosh@concordia.ca,
-Anthony Noce,anthony.noce@concordia.ca,"Economic growth and environmental/ecological interactions, The role of energy and technology in economic growth, Incentives, Economics and statistics education, Deuterated hydrogen-ozone radical reaction kinetics using quantum chemistry computational methods"
-Dan Otchere,Dan.Otchere@concordia.ca,Economic Development; Monetary Economics
-Szilvia Pápai,szilvia.papai@concordia.ca,"Matching Theory, Axiomatic Resource Allocation, Market Design, Game Theory"
-Asefeh Salarinezhad,asefeh.salarinezhad@concordia.ca,
-Christian Sigouin,christian.sigouin@concordia.ca,
-Ivan Tchinkov,ivan.tchinkov@concordia.ca,"International Finance, International Trade and Development"
-Gabrielle Vasey,gabrielle.vasey@concordia.ca,"Labour Economics, Education Economics, Development Economics"
-Axel Watanabe,axel.watanabe@concordia.ca,"Urban economics, public finance, network theory"
-Huan Xie,huan.xie@concordia.ca,"Experimental Economics, Applied Game Theory, Public Economics"
-Jipeng Zhang,Jpzhang@swufe.edu.cn,
+NameRaw,AcademicRank,HD,HDSchool,HDYear,NoPPubGrad,FirstPPubYearRel,TotalPPub,TotalYearPhD,TotalPPubYearEnd,YearAvgPPubStartGrad,YearAvgPPubEndPhD,TotalWorkingPaper,TotalWorkInProgress,TotalOtherPub,TotalBook,Notes,Research Interests,Email
+Anca Alecsandru,,,,,,,,,,,,,,,,,,Anca.Alecsandru@concordia.ca
+Christian Belzil,,,,,,,,,,,,,,,,,,christian.belzil@concordia.ca
+Jan Victor Dee,,,,,,,,,,,,,,,,,"Industrial Organization, Econometrics",janvictor.dee@concordia.ca
+Effrosyni Diamantoudi,,,,,,,,,,,,,,,,,"Game Theory, Coalition Formation, Cartel Stability, Environmental Economics, International Environmental Agreements",effrosyni.diamantoudi@concordia.ca
+Prosper Dovonon,,,,,,,,,,,,,,,,,,Prosper.Dovonon@concordia.ca
+Paul Gomme,,,,,,,,,,,,,,,,,"Macroeconomics, monetary economics, fiscal policy, unemployment insurance, business cycles",Paul.Gomme@concordia.ca
+Jorgen Hansen,,,,,,,,,,,,,,,,,"Labor supply, Economics of education",Jorgen.Hansen@concordia.ca
+Ian Irvine,,,,,,,,,,,,,,,,,Tobacco use and policy; cannabis legalization; vaping and smoking,ian.irvine@concordia.ca
+Heejeong Kim,,,,,,,,,,,,,,,,,"Macroeconomics, Business Cycles, Wealth Inequality",heejeong.kim@concordia.ca
+Tatyana Koreshkova,,,,,,,,,,,,,,,,,"Macroeconomics, Health and Ageing, Human Capital, Public Policy, Economic Development",tatyana.koreshkova@concordia.ca
+Moshe Lander,,,,,,,,,,,,,,,,,,moshe.lander@concordia.ca
+Carol Chui Ha Lau,,,,,,,,,,,,,,,,,,carol.lau@concordia.ca
+Greg LeBlanc,,,,,,,,,,,,,,,,,,greg.leblanc@concordia.ca
+Ming Li,,,,,,,,,,,,,,,,,game theory; microeconomics; political economics,ming.li@concordia.ca
+Damba Lkhagvasuren,,,,,,,,,,,,,,,,,,damba.lkhagvasuren@concordia.ca
+Dipjyoti Majumdar,,,,,,,,,,,,,,,,,,dipjyoti.majumdar@concordia.ca
+Panos Margaris,,,,,,,,,,,,,,,,,"Inequality, Human Capital, Economics of Obesity, Taxation",panos.margaris@concordia.ca
+James McIntosh,,,,,,,,,,,,,,,,,,james.mcintosh@concordia.ca
+Anthony Noce,,,,,,,,,,,,,,,,,"Economic growth and environmental/ecological interactions, The role of energy and technology in economic growth, Incentives, Economics and statistics education, Deuterated hydrogen-ozone radical reaction kinetics using quantum chemistry computational methods",anthony.noce@concordia.ca
+Dan Otchere,,,,,,,,,,,,,,,,,Economic Development; Monetary Economics,Dan.Otchere@concordia.ca
+Szilvia Pápai,,,,,,,,,,,,,,,,,"Matching Theory, Axiomatic Resource Allocation, Market Design, Game Theory",szilvia.papai@concordia.ca
+Asefeh Salarinezhad,,,,,,,,,,,,,,,,,,asefeh.salarinezhad@concordia.ca
+Christian Sigouin,,,,,,,,,,,,,,,,,,christian.sigouin@concordia.ca
+Ivan Tchinkov,,,,,,,,,,,,,,,,,"International Finance, International Trade and Development",ivan.tchinkov@concordia.ca
+Gabrielle Vasey,,,,,,,,,,,,,,,,,"Labour Economics, Education Economics, Development Economics",gabrielle.vasey@concordia.ca
+Axel Watanabe,,,,,,,,,,,,,,,,,"Urban economics, public finance, network theory",axel.watanabe@concordia.ca
+Huan Xie,,,,,,,,,,,,,,,,,"Experimental Economics, Applied Game Theory, Public Economics",huan.xie@concordia.ca
+Jipeng Zhang,,,,,,,,,,,,,,,,,,Jpzhang@swufe.edu.cn
