@@ -57,7 +57,9 @@ from scipy.stats import chi2_contingency
 import matplotlib.pyplot as plt
 
 # Load the provided CSV file
-data_path = 'dpdp_economics_master_rank.csv'
+# data_path = 'dpdp_economics_master_rank.csv'
+data_path = 'dpdp_economics_master_rank_name.csv'
+
 data_df = pd.read_csv(data_path)
 
 # Calculate the proportion of economists with 0 publications by PhD graduation year
@@ -69,6 +71,31 @@ print(f"Total number of economists: {total_economists}")
 print(f"Number of economists with 0 publications by PhD graduation year: {economists_with_zero_pubs}")
 print(f"Proportion of economists with 0 publications by PhD graduation year: {proportion_zero_pubs:.4f}")
 
+######################
+# FEATURES ENGINEERING
+######################
+
+from features import get_gender, get_ethn
+
+# GENDER
+data_df = get_gender(data_df)
+
+# Convert Gender to binary: Male = 0, Female = 1
+data_df['GenderBinary'] = data_df['Gender'].map({'Male': 0, 'Female': 1})
+
+print('gender')
+dev_log = input()
+
+from ethnicolr import pred_fl_reg_ln, pred_fl_reg_name
+
+data_df = get_ethn(data_df)
+print('eth')
+dev_log = input()
+
+######################
+# PREDICTIVE MODEL
+######################
+
 from logistic_regression import log_mod_one
 
 log_mod_one(data_df)
@@ -77,7 +104,7 @@ dev_log = input()
 threshold_var(data_df)
 
 # Define a threshold for high-status schools (e.g., top 50)
-high_status_threshold = 30
+high_status_threshold = 50
 
 # Create a new column to indicate if the school is high-status
 data_df['High_Status_School'] = data_df['RepecRank'] <= high_status_threshold
@@ -101,3 +128,7 @@ print(expected)
 # Save the contingency table to a CSV file for review
 contingency_table_output = 'contingency_table.csv'
 contingency_table.to_csv(contingency_table_output)
+
+# save df
+data_path = 'dpdp_economics_master_rank_name_gender_race.csv'
+data_df.to_csv(data_path, index=False)
