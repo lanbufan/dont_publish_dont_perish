@@ -1,0 +1,145 @@
+rank,academic_unit,location,university,PhDCountry
+1,                                                                                       ,"Cambridge, Massachusetts USA         ",National Bureau of Economic Research NBER,United States
+2,                                                                                       ,"London, United Kingdom               ",Centre for Economic Policy Research CEPR,United Kingdom
+3,Department of Economics                                                                ,"Princeton, New Jersey USA            ",Princeton University,United States
+4,Department of Economics                                                                ,"New York City, New York USA          ",New York University,United States
+5,                                                                                       ,"Bonn, Germany                        ",Institut zur Zukunft der Arbeit IZA,Germany
+6,London School of Economics and Political Science LSE                                   ,"London, United Kingdom               ",University of London,United Kingdom
+7,Department of Economics                                                                ,"Cambridge, Massachusetts USA         ",Harvard University,United States
+8,Economics Department                                                                   ,"Cambridge, Massachusetts USA         ",Massachusetts Institute of Technology,United States
+9,Hoover Institution on War Revolution & Peace                                           ,"Palo Alto, California USA            ",Stanford University,United States
+10,Department of Economics                                                                ,"Berkeley, California USA             ",University of California,United States
+10,Department of Economics                                                                ,"Berkeley, California USA             ",Berkeley,United States
+11,Graduate School of Business                                                            ,"New York City, New York USA          ",Columbia University,United States
+12,                                                                                       ,"Washington, District of Columbia USA ",International Monetary Fund IMF,United States
+13,Department of Economics                                                                ,"Chicago, Illinois USA                ",University of Chicago,United States
+14,Finance & Economics Department                                                         ,"New York City, New York USA          ","Graduate School of Business, Columbia University",United States
+14,Economics Department                                                                   ,"London, United Kingdom               ","London School of Economics and Political Science LSE, University of London",United Kingdom
+14,Centre for Economic Performance CEP                                                    ,"London, United Kingdom               ","London School of Economics and Political Science LSE, University of London",United Kingdom
+14,Economics Department                                                                   ,"New Haven, Connecticut USA           ",Yale University,United States
+15,Cowles Foundation for Economic Research                                                ,"New Haven, Connecticut USA           ",Yale University,United States
+16,Department of Economics                                                                ,"Palo Alto, California USA            ",Stanford University,United States
+17,                                                                                       ,"Minneapolis, Minnesota USA           ",Federal Reserve Bank of Minneapolis,United States
+18,                                                                                       ,"München, Germany                     ",CESifo,Germany
+19,Graduate School of Business                                                            ,"Chicago, Illinois USA                ",University of Chicago,United States
+20,Department of Economics                                                                ,"New York City, New York USA          ","School of Arts and Sciences, Columbia University",United States
+21,Department of Economics                                                                ,"San Diego / La Jolla, California USA ",University of California,United States
+22,Department of Economics                                                                ,"Evanston, Illinois USA               ",Northwestern University,United States
+23,Kennedy School of Government                                                           ,"Cambridge, Massachusetts USA         ",Harvard University,United States
+24,Department of Economics                                                                ,"Chestnut Hill, Massachusetts USA     ",Boston College,United States
+25,Department of Economics                                                                ,"Coventry, United Kingdom             ",University of Warwick,United Kingdom
+26,Wharton School                                                                         ,"Philadelphia, Pennsylvania USA       ",University of Pennsylvania,United States
+27,Department of Economics                                                                ,"Boston, Massachusetts USA            ",Boston University,United States
+28,Department of Economics                                                                ,"Minneapolis, Minnesota USA           ",University of Minnesota,United States
+29,Faculté des Sciences Économiques                                                       ,"Toulouse, France                     ",Université des Sciences Sociales Toulouse I,France
+30,Economics Department                                                                   ,"Madison, Wisconsin USA               ",University of Wisconsin,United States
+31,Federal Reserve Board                                                                  ,"Washington, District of Columbia USA ",Government of the United States,United States
+32,Department of Economics                                                                ,"Los Angeles, California USA          ",University of California,United States
+33,Economics Department                                                                   ,"Providence, Rhode Island USA         ",Brown University,United States
+34,Institut d'Économie Industrielle IDEI                                                  ,"Toulouse, France                     ","Faculté des Sciences Économiques, Université des Sciences Sociales Toulouse I",France
+34,Stern School of Business                                                               ,"New York City, New York USA          ",New York University,United States
+35,                                                                                       ,"Washington, District of Columbia USA ",World Bank Group,United States
+36,Woodrow Wilson School of Public and International Affairs                              ,"Princeton, New Jersey USA            ",Princeton University,United States
+37,Research Department                                                                    ,"Minneapolis, Minnesota USA           ",Federal Reserve Bank of Minneapolis,United States
+37,Department of Economics                                                                ,"Philadelphia, Pennsylvania USA       ",University of Pennsylvania,United States
+38,School of International and Public Affairs SIPA                                        ,"New York City, New York USA          ",Columbia University,United States
+39,Department of Economics                                                                ,"Jerusalem, Israel                    ",Hebrew University of Jerusalem,Israel
+40,Walter A. Haas School of Business                                                      ,"Berkeley, California USA             ",University of California,United States
+41,Graduate School of Business                                                            ,"Palo Alto, California USA            ",Stanford University,United States
+42,Department of Economics                                                                ,"Nashville, Tennessee USA             ",Vanderbilt University,United States
+43,                                                                                       ,"San Francisco, California USA        ",Federal Reserve Bank of San Francisco,United States
+44,                                                                                       ,"Amsterdam, Netherlands               ",Tinbergen Instituut,Netherlands
+45,                                                                                       ,"Chicago, Illinois USA                ",American Bar Foundation ABF,United States
+46,William Davidson Institute                                                             ,"Ann Arbor, Michigan USA              ",University of Michigan,United States
+47,Departament d'Economia i Empresa                                                       ,"Barcelona, Spain                     ",Universitat Pompeu Fabra,Spain
+48,Department of Economics                                                                ,"Durham, North Carolina USA           ",Duke University,United States
+49,Innocenzo Gasparini Institute for Economic Research IGIER                              ,"Milano, Italy                        ",Università Commerciale Luigi Bocconi,Italy
+50,Paris-Jourdan Sciences Economiques PSE                                                 ,"Paris, France                        ",École Normale Supérieure,France
+51,College of Business                                                                    ,"Tempe, Arizona USA                   ",Arizona State University,United States
+52,Department of Economics                                                                ,"Tempe, Arizona USA                   ","College of Business, Arizona State University",United States
+52,Department of Economics                                                                ,"Toronto, Canada                      ",University of Toronto,Canada
+53,                                                                                       ,"London, United Kingdom               ",Institute for Fiscal Studies IFS,United Kingdom
+54,                                                                                       ,"Washington, District of Columbia USA ",Brookings Institution,United States
+55,Department of Economics                                                                ,"College Park, Maryland USA           ",University of Maryland,United States
+56,Department of Economics                                                                ,"Santa Barbara, California USA        ",University of California,United States
+57,Kellogg Graduate School of Management                                                  ,"Evanston, Illinois USA               ",Northwestern University,United States
+58,Finance Department                                                                     ,"Philadelphia, Pennsylvania USA       ","Wharton School, University of Pennsylvania",United States
+58,Department of Economics and Related Studies                                            ,"York, United Kingdom                 ",University of York,United Kingdom
+59,Faculty of Economics                                                                   ,"Cambridge, United Kingdom            ",University of Cambridge,Unknown
+60,Center for International Development                                                   ,"Cambridge, Massachusetts USA         ","Kennedy School of Government, Harvard University",United States
+60,Stanford Institute for Economic Policy Research SIEPR                                  ,"Palo Alto, California USA            ",Stanford University,United States
+61,Harvard Business School                                                                ,"Cambridge, Massachusetts USA         ",Harvard University,United States
+62,Economic Research                                                                      ,"San Francisco, California USA        ",Federal Reserve Bank of San Francisco,United States
+62,                                                                                       ,"Chicago, Illinois USA                ",Federal Reserve Bank of Chicago,United States
+63,Department of Economics                                                                ,"Oxford, United Kingdom               ",Oxford University,United Kingdom
+64,Economics Department                                                                   ,"Ann Arbor, Michigan USA              ",University of Michigan,United States
+65,Bendheim Center for Finance                                                            ,"Princeton, New Jersey USA            ","Department of Economics, Princeton University",United States
+65,Economic Analysis & Policy Group EAP                                                   ,"Berkeley, California USA             ","Walter A. Haas School of Business, University of California",United States
+65,Olin School of Business                                                                ,"St. Louis, Missouri USA              ",Washington University,United States
+66,Research Department                                                                    ,"Washington, District of Columbia USA ",International Monetary Fund IMF,United States
+66,Eitan Berglas School of Economics                                                      ,"Tel Aviv, Israel                     ",Tel Aviv University,Israel
+67,Department of Economics                                                                ,"Vancouver, Canada                    ",University of British Columbia,Canada
+68,Economics Department                                                                   ,"New York City, New York USA          ","Stern School of Business, New York University",United States
+68,Faculteit Economie                                                                     ,"Amsterdam, Netherlands               ",Universiteit van Amsterdam,Netherlands
+69,Center for Business and Government                                                     ,"Cambridge, Massachusetts USA         ","Kennedy School of Government, Harvard University",United States
+69,Wirtschaftswissenschaftliche Fakutät                                                   ,"Zürich, Switzerland                  ",Universität Zürich,Switzerland
+70,Department of Economics                                                                ,"Austin, Texas USA                    ",University of Texas,United States
+71,Facultade de Ciencias Económicas e Empresariais                                        ,"Santiago de Compostela, Spain        ",Universidade de Santiago de Compostela,Spain
+72,Department of Economics                                                                ,"Auckland, New Zealand                ","Business School, University of Auckland",New Zealand
+71,Business School                                                                        ,"Auckland, New Zealand                ",University of Auckland,New Zealand
+73,Economics Department                                                                   ,"Santa Cruz, California USA           ",University of California,United States
+74,Sloan School of Management                                                             ,"Cambridge, Massachusetts USA         ",Massachusetts Institute of Technology,United States
+75,Economic Studies                                                                       ,"Washington, District of Columbia USA ",Brookings Institution,United States
+75,Tepper School of Business Administration                                               ,"Pittsburgh, Pennsylvania USA         ",Carnegie Mellon University,United States
+76,Bank of England                                                                        ,"London, United Kingdom               ",Government of the United Kingdom,United Kingdom
+77,Centre d'Enseignement et de Recherche en Analyse Socio-Économique CERAS                ,"Paris, France                        ",École Nationale des Ponts et Chaussées,France
+78,Carlson School of Management                                                           ,"Minneapolis, Minnesota USA           ",University of Minnesota,United States
+79,Institut für Empirische Wirtschaftsforschung                                           ,"Zürich, Switzerland                  ","Wirtschaftswissenschaftliche Fakutät, Universität Zürich",Switzerland
+79,Econometria                                                                            ,"Santiago de Compostela, Spain        ","Facultade de Ciencias Económicas e Empresariais, Universidade de Santiago de Compostela",Spain
+79,Economics Department                                                                   ,"Rochester, New York USA              ",University of Rochester,United States
+80,Anderson Graduate School of Management                                                 ,"Los Angeles, California USA          ",University of California,United States
+81,                                                                                       ,"Cleveland, Ohio USA                  ",Federal Reserve Bank of Cleveland,United States
+82,Department of Economics                                                                ,"Seattle, Washington USA              ",University of Washington,United States
+83,Economics Department                                                                   ,"Davis, California USA                ",University of California,United States
+84,Department of Economics                                                                ,"St. Louis, Missouri USA              ",Washington University,United States
+85,Industrial Relations Section                                                           ,"Princeton, New Jersey USA            ","Department of Economics, Princeton University",United States
+85,Department of Economics                                                                ,"London, United Kingdom               ","University College London, University of London",United Kingdom
+86,Economic Research Department                                                           ,"Chicago, Illinois USA                ",Federal Reserve Bank of Chicago,United States
+86,                                                                                       ,"St. Louis, Missouri USA              ",Federal Reserve Bank of St. Louis,United States
+87,                                                                                       ,"New York City, New York USA          ",Federal Reserve Bank of New York,United States
+88,Division of Social Sciences                                                            ,"Pasadena, California USA             ",California Institute of Technology,United States
+88,Division of Social Sciences                                                            ,"Pasadena, California USA             ",CalTech,United States
+89,Department of Economics                                                                ,"London, Canada                       ",University of Western Ontario,Canada
+90,Economics Group                                                                        ,"Oxford, United Kingdom               ","Nuffield College, Oxford University",United Kingdom
+91,Suntory and Toyota International Centres for Economics and Related Disciplines STICERD ,"London, United Kingdom               ","London School of Economics and Political Science LSE, University of London",United Kingdom
+91,Department of Economics                                                                ,"Ithaca, New York USA                 ",Cornell University,United States
+92,Research Program in Development Studies                                                ,"Princeton, New Jersey USA            ","Woodrow Wilson School of Public and International Affairs, Princeton University",United States
+92,Volkswirtschaftliche Fakultät                                                          ,"München, Germany                     ",Ludwig-Maximilians-Universität,Germany
+92,Volkswirtschaftliche Fakultät                                                          ,"München, Germany                     ",Munich,Germany
+93,Department of Economics                                                                ,"Baltimore, Maryland USA              ",Johns Hopkins University,United States
+94,                                                                                       ,"Paris, France                        ",Organisation de Coopération et de Développement Économiques OCDE,France
+95,Department of Economics                                                                ,"Ames, Iowa USA                       ",Iowa State University,United States
+96,Department of Economics                                                                ,"Columbus, Ohio USA                   ",Ohio State University,United States
+97,School of Industrial & Labor Relations                                                 ,"Ithaca, New York USA                 ",Cornell University,United States
+98,Economics Department                                                                   ,"Hanover, New Hampshire USA           ",Dartmouth College,United States
+99,Department of Economics                                                                ,"Storrs, Connecticut USA              ",University of Connecticut,United States
+100,Center for Economic Policy Studies                                                     ,"Princeton, New Jersey USA            ","Department of Economics, Princeton University",United States
+100,Centre de Recerca en Economia Internacional CREI                                       ,"Barcelona, Spain                     ","Departament d'Economia i Empresa, Universitat Pompeu Fabra",Spain
+100,Department of Economics                                                                ,"Tallahassee, Florida USA             ",Florida State University,United States
+101,Finance Department                                                                     ,"New York City, New York USA          ","Stern School of Business, New York University",United States
+101,Economic Research                                                                      ,"Cleveland, Ohio USA                  ",Federal Reserve Bank of Cleveland,United States
+101,Faculteit der Economische Wetenschappen                                                ,"Rotterdam, Netherlands               ",Erasmus Universiteit,Netherlands
+102,                                                                                       ,"Boston, Massachusetts USA            ",Federal Reserve Bank of Boston,United States
+103,European Central Bank                                                                  ,"Frankfurt am Main, Germany           ",European Community,Germany
+104,Harvard Institute of Economic Research HIER                                            ,"Cambridge, Massachusetts USA         ","Department of Economics, Harvard University",United States
+104,School of Management                                                                   ,"New Haven, Connecticut USA           ",Yale University,United States
+105,Department of Economics                                                                ,"Urbana-Champaign, Illinois USA       ",University of Illinois,United States
+105,Department of Economics                                                                ,"Urbana-Champaign, Illinois USA       ",Illinois at Urbana-Champaign,United States
+106,Faculteit der Economische Wetenschappen en Bedrijfskunde                               ,"Amsterdam, Netherlands               ",Vrije Universiteit,Netherlands
+107,Department of Finance and Business Economics                                           ,"Los Angeles, California USA          ","Marshall School of Business, University of Southern California",United States
+107,Department of Finance                                                                  ,"Evanston, Illinois USA               ","Kellogg Graduate School of Management, Northwestern University",United States
+107,Global Economics & Management Group                                                    ,"Los Angeles, California USA          ","Anderson Graduate School of Management, University of California",United States
+107,Economics Group                                                                        ,"Chicago, Illinois USA                ","Graduate School of Business, University of Chicago",United States
+107,Marshall School of Business                                                            ,"Los Angeles, California USA          ",University of Southern California,United States
+108,Finance Unit                                                                           ,"Cambridge, Massachusetts USA         ","Harvard Business School, Harvard University",United States
+108,Department of Economics                                                                ,"Atlanta, Georgia USA                 ",Emory University,United States

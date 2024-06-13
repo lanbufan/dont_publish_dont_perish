@@ -58,6 +58,17 @@ def deal_unknow(data_df):
                 "Amartya":"Male",
                 "Dingding":"Female",
                 "Yuntong":"Male",
+                "Mingshan":"Female",
+                "Jean-William":"Male",
+                "Yu":"Female",
+                "Jorgen":"Male",
+                "Heejeong":"Female",
+                "Ming":"Male",
+                "Damba":"Male",
+                "Dipjyoti":"Male",
+                "Asefeh":"Female",
+                "Huan":"Female",
+                "Jipeng":"Male",
                 }
 
     # Update the 'Gender' column for rows with 'Unknown' gender

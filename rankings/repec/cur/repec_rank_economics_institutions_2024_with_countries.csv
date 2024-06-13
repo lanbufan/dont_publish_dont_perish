@@ -1,0 +1,588 @@
+rank,academic_unit,location,university,PhDCountry
+1,                                                                                     ,"Cambridge, Massachusetts (USA)         ",National Bureau of Economic Research (NBER),United States
+2,Department of Economics                                                              ,"Cambridge, Massachusetts (USA)         ",Harvard University,United States
+3,                                                                                     ,"London, United Kingdom                 ",London School of Economics (LSE),United Kingdom
+4,Economics Department                                                                 ,"Cambridge, Massachusetts (USA)         ",Massachusetts Institute of Technology (MIT),United States
+5,                                                                                     ,"Washington, District of Columbia (USA) ",World Bank Group,United States
+6,Booth School of Business                                                             ,"Chicago, Illinois (USA)                ",University of Chicago,United States
+7,                                                                                     ,"Washington, District of Columbia (USA) ",International Monetary Fund (IMF),United States
+8,Department of Economics                                                              ,"Berkeley, California (USA)             ",University of California-Berkeley,United States
+9,Department of Economics                                                              ,"Chicago, Illinois (USA)                ",University of Chicago,United States
+10,Department of Economics                                                              ,"Princeton, New Jersey (USA)            ",Princeton University,United States
+11,                                                                                     ,"Paris, France                          ",Paris School of Economics,France
+12,Department of Economics                                                              ,"Stanford, California (USA)             ",Stanford University,United States
+13,Graduate School of Business                                                          ,"Stanford, California (USA)             ",Stanford University,United States
+14,                                                                                     ,"Frankfurt am Main, Germany             ",European Central Bank,Germany
+15,                                                                                     ,"Washington, District of Columbia (USA) ",Federal Reserve Board (Board of Governors of the Federal Reserve System),United States
+16,                                                                                     ,"Toulouse, France                       ",Toulouse School of Economics (TSE),France
+17,Harvard Kennedy School                                                               ,"Cambridge, Massachusetts (USA)         ",Harvard University,United States
+18,Department of Economics                                                              ,"New York City, New York (USA)          ",New York University (NYU),United States
+19,Department of Economics                                                              ,"New York City, New York (USA)          ","School of Arts and Sciences, Columbia University",United States
+20,                                                                                     ,"Bonn, Germany                          ",Institute of Labor Economics (IZA),Germany
+21,                                                                                     ,"Milano, Italy                          ",UniversitÃ  Commerciale Luigi Bocconi,Italy
+22,Department of Economics                                                              ,"Oxford, United Kingdom                 ",Oxford University,United Kingdom
+23,Economics Department                                                                 ,"New Haven, Connecticut (USA)           ",Yale University,United States
+23,Economics Research                                                                   ,"Washington, District of Columbia (USA) ",World Bank Group,United States
+24,                                                                                     ,"Barcelona, Spain                       ",Barcelona School of Economics (BSE),Spain
+25,Department of Economics                                                              ,"Philadelphia, Pennsylvania (USA)       ",University of Pennsylvania,United States
+26,Monash Business School                                                               ,"Melbourne, Australia                   ",Monash University,Unknown
+27,Economics Department                                                                 ,"Providence, Rhode Island (USA)         ",Brown University,United States
+28,Department of Economics                                                              ,"Boston, Massachusetts (USA)            ",Boston University,United States
+29,Stern School of Business                                                             ,"New York City, New York (USA)          ",New York University (NYU),United States
+30,Graduate School of Business                                                          ,"New York City, New York (USA)          ",Columbia University,United States
+31,                                                                                     ,"Basel, Switzerland                     ",Bank for International Settlements (BIS),Switzerland
+32,                                                                                     ,"BogotÃ¡, Colombia                       ",Banco de la Republica de Colombia,Colombia
+33,                                                                                     ,"New York City, New York (USA)          ",Federal Reserve Bank of New York,United States
+34,Department of Economics                                                              ,"London, United Kingdom                 ",University College London (UCL),United Kingdom
+35,Sloan School of Management                                                           ,"Cambridge, Massachusetts (USA)         ",Massachusetts Institute of Technology (MIT),United States
+35,Economics Department                                                                 ,"London, United Kingdom                 ",London School of Economics (LSE),United Kingdom
+36,Wharton School of Business                                                           ,"Philadelphia, Pennsylvania (USA)       ",University of Pennsylvania,United States
+37,Department of Economics                                                              ,"La Jolla, California (USA)             ",University of California-San Diego (UCSD),United States
+38,                                                                                     ,"Roma, Italy                            ",Banca d'Italia,Italy
+39,Department of Economics                                                              ,"Evanston, Illinois (USA)               ",Northwestern University,United States
+40,Department of Economics                                                              ,"Los Angeles, California (USA)          ",University of Southern California,United States
+41,Economics Department                                                                 ,"Ann Arbor, Michigan (USA)              ",University of Michigan,United States
+42,Economics Department                                                                 ,"Hanover, New Hampshire (USA)           ",Dartmouth College,United States
+43,Sciences Ã©conomiques                                                                 ,"Paris, France                          ",Sciences Po,France
+44,Walter A. Haas School of Business                                                    ,"Berkeley, California (USA)             ",University of California-Berkeley,United States
+45,                                                                                     ,"London, United Kingdom                 ",Centre for Economic Policy Research (CEPR),United Kingdom
+46,Wirtschaftswissenschaftliche FakutÃ¤lt                                                ,"ZÃ¼rich, Switzerland                    ",UniversitÃ¤t ZÃ¼rich,Switzerland
+47,Department of Economics                                                              ,"Los Angeles, California (USA)          ",University of California-Los Angeles (UCLA),United States
+47,Finance and Economics Department                                                     ,"New York City, New York (USA)          ","Graduate School of Business, Columbia University",United States
+48,                                                                                     ,"Washington, District of Columbia (USA) ",International Food Policy Research Institute (IFPRI),United States
+48,Research and Statistics Group                                                        ,"New York City, New York (USA)          ",Federal Reserve Bank of New York,United States
+49,Vancouver School of Economics                                                        ,"Vancouver, Canada                      ",University of British Columbia,Canada
+50,Kellogg Graduate School of Management                                                ,"Evanston, Illinois (USA)               ",Northwestern University,United States
+51,                                                                                     ,"MÃ¼nchen, Germany                       ",ifo Institut - Leibniz-Institut fÃ¼r Wirtschaftsforschung an der UniversitÃ¤t MÃ¼nchen e.V.,Germany
+52,Economics Department                                                                 ,"Madison, Wisconsin (USA)               ",University of Wisconsin-Madison,United States
+53,School of Economics and Management                                                   ,"Tilburg, Netherlands                   ",Universiteit van Tilburg,Unknown
+54,Department of Economics                                                              ,"Durham, North Carolina (USA)           ",Duke University,United States
+55,                                                                                     ,"Paris, France                          ",Organisation de CoopÃ©ration et de DÃ©veloppement Ãconomiques (OCDE),France
+55,Centre for Economic Performance (CEP)                                                ,"London, United Kingdom                 ",London School of Economics (LSE),United Kingdom
+56,Department of Economics                                                              ,"Ithaca, New York (USA)                 ",Cornell University,United States
+57,                                                                                     ,"Washington, District of Columbia (USA) ",Brookings Institution,United States
+58,Department of Economics                                                              ,"Toronto, Canada                        ",University of Toronto,Canada
+59,Economics Department                                                                 ,"East Lansing, Michigan (USA)           ",Michigan State University,United States
+59,Institut fÃ¼r Volkswirtschaftslehre                                                   ,"ZÃ¼rich, Switzerland                    ","Wirtschaftswissenschaftliche FakutÃ¤lt, UniversitÃ¤t ZÃ¼rich",Switzerland
+60,Department of Economics                                                              ,"Chestnut Hill, Massachusetts (USA)     ",Boston College,United States
+61,Department of Economics                                                              ,"Coventry, United Kingdom               ",University of Warwick,Unknown
+62,Economics Department                                                                 ,"Davis, California (USA)                ",University of California-Davis,United States
+63,Harvard Business School                                                              ,"Cambridge, Massachusetts (USA)         ",Harvard University,United States
+64,                                                                                     ,"St. Louis, Missouri (USA)              ",Federal Reserve Bank of St. Louis,United States
+65,Solvay Brussels School of Economics and Management                                   ,"Bruxelles, Belgium                     ",UniversitÃ© Libre de Bruxelles,Belgium
+66,Anderson Graduate School of Management                                               ,"Los Angeles, California (USA)          ",University of California-Los Angeles (UCLA),United States
+67,Faculteit Economie en Bedrijfskunde                                                  ,"Groningen, Netherlands                 ",Rijksuniversiteit Groningen,Netherlands
+68,Louvain Institute of Data Analysis and Modelling in Economics and Statistics (LIDAM) ,"Louvain-la-Neuve, Belgium              ",UniversitÃ© Catholique de Louvain,Belgium
+68,Research Division                                                                    ,"St. Louis, Missouri (USA)              ",Federal Reserve Bank of St. Louis,United States
+69,Hoover Institution on War Revolution & Peace                                         ,"Stanford, California (USA)             ",Stanford University,United States
+69,Department of Economics                                                              ,"Melbourne, Australia                   ","Monash Business School, Monash University",Unknown
+70,                                                                                     ,"Berlin, Germany                        ",DIW Berlin (Deutsches Institut fÃ¼r Wirtschaftsforschung),Germany
+71,School of Economics                                                                  ,"Nottingham, United Kingdom             ",University of Nottingham,United Kingdom
+72,Department of Economics                                                              ,"College Park, Maryland (USA)           ",University of Maryland,United States
+73,                                                                                     ,"Chicago, Illinois (USA)                ",Federal Reserve Bank of Chicago,United States
+74,School of International and Public Affairs (SIPA)                                    ,"New York City, New York (USA)          ",Columbia University,United States
+75,                                                                                     ,"Stockholm, Sweden                      ",Stockholm School of Economics,Sweden
+76,Department of Economics                                                              ,"Irvine, California (USA)               ",University of California-Irvine,United States
+76,Department of Economics                                                              ,"Paris, France                          ","Sciences Ã©conomiques, Sciences Po",France
+77,                                                                                     ,"Madrid, Spain                          ",Banco de EspaÃ±a,Spain
+77,CentER Graduate School for Economics and Business                                    ,"Tilburg, Netherlands                   ","School of Economics and Management, Universiteit van Tilburg",Unknown
+77,Departament d'Economia i Empresa                                                     ,"Barcelona, Spain                       ","Universitat Pompeu Fabra, Barcelona School of Economics (BSE)",Spain
+78,Department of Economics                                                              ,"Austin, Texas (USA)                    ",University of Texas-Austin,United States
+79,Dipartimento di Scienze Economiche                                                   ,"Bologna, Italy                         ",Alma Mater Studiorum - UniversitÃ  di Bologna,Italy
+80,Department of Economics                                                              ,"Nashville, Tennessee (USA)             ",Vanderbilt University,United States
+81,Faculty of Economics                                                                 ,"Cambridge, United Kingdom              ",University of Cambridge,United Kingdom
+82,                                                                                     ,"Minneapolis, Minnesota (USA)           ",Federal Reserve Bank of Minneapolis,United States
+83,Harris School of Public Policy                                                       ,"Chicago, Illinois (USA)                ",University of Chicago,United States
+84,Department of Economics                                                              ,"Baltimore, Maryland (USA)              ",Johns Hopkins University,United States
+85,School of Business and Economics                                                     ,"Amsterdam, Netherlands                 ",Vrije Universiteit Amsterdam,Netherlands
+86,                                                                                     ,"Paris, France                          ",Banque de France,France
+87,School of Management                                                                 ,"New Haven, Connecticut (USA)           ",Yale University,United States
+88,                                                                                     ,"San Francisco, California (USA)        ",Federal Reserve Bank of San Francisco,United States
+89,Institut for Ãkonomi                                                                 ,"Aarhus, Denmark                        ",Aarhus Universitet,Unknown
+90,Faculteit Economie en Bedrijfswetenschappen                                          ,"Leuven, Belgium                        ",KU Leuven,Belgium
+91,Department of Economics                                                              ,"South Bend, Indiana (USA)              ",University of Notre Dame,United States
+91,Economic Studies                                                                     ,"Washington, District of Columbia (USA) ",Brookings Institution,United States
+92,                                                                                     ,"London, United Kingdom                 ",Bank of England,United Kingdom
+93,                                                                                     ,"Madrid, Spain                          ",Centro de Estudios Monetarios y Financieros (CEMFI),Spain
+93,Innocenzo Gasparini Institute for Economic Research (IGIER)                          ,"Milano, Italy                          ",UniversitÃ  Commerciale Luigi Bocconi,Italy
+94,                                                                                     ,"Palaiseau, France                      ",Centre de Recherche en Ãconomie et Statistique (CREST),France
+95,Joint Research Centre                                                                ,"Sevilla, Spain                         ",European Commission,Spain
+96,Faculteit der Economische Wetenschappen                                              ,"Rotterdam, Netherlands                 ",Erasmus Universiteit Rotterdam,Netherlands
+97,Crawford School of Public Policy                                                     ,"Canberra, Australia                    ",Australian National University,Australia
+97,Institut d'Ãconomie Industrielle (IDEI)                                              ,"Toulouse, France                       ",Toulouse School of Economics (TSE),France
+98,Economics Department                                                                 ,"Kingston, Canada                       ",Queen's University,Canada
+99,Department of Economics                                                              ,"London, Canada                         ",University of Western Ontario,Canada
+100,UNSW Business School                                                                 ,"Sydney, Australia                      ",UNSW Sydney,Australia
+101,Ãkonomisk Institut                                                                   ,"KÃ¸benhavn, Denmark                     ",KÃ¸benhavns Universitet,Unknown
+102,                                                                                     ,"Washington, District of Columbia (USA) ",Peter G. Peterson Institute for International Economics (IIE),United States
+103,Department of Economics                                                              ,"Charlottesville, Virginia (USA)        ",University of Virginia,United States
+104,Department of Economics and Related Studies                                          ,"York, United Kingdom                   ",University of York,Unknown
+105,Economics Department                                                                 ,"Washington, District of Columbia (USA) ",Georgetown University,United States
+106,Faculteit Economie en Bedrijfskunde                                                  ,"Amsterdam, Netherlands                 ",Universiteit van Amsterdam,Netherlands
+107,Department of Economics                                                              ,"Minneapolis, Minnesota (USA)           ",University of Minnesota,United States
+108,School of Economics                                                                  ,"Brisbane, Australia                    ",University of Queensland,Australia
+109,Business School                                                                      ,"London, United Kingdom                 ",Imperial College,United Kingdom
+110,Ãcole d'Ãconomie d'Aix-Marseille                                                     ,"Aix-en-Provence/Marseille, France      ",Aix-Marseille UniversitÃ©,France
+111,Department of Economics                                                              ,"Santa Barbara, California (USA)        ",University of California-Santa Barbara (UCSB),United States
+111,Finance Department                                                                   ,"New York City, New York (USA)          ","Stern School of Business, New York University (NYU)",United States
+112,Department of Economics                                                              ,"State College, Pennsylvania (USA)      ",Pennsylvania State University,United States
+113,                                                                                     ,"Dallas, Texas (USA)                    ",Federal Reserve Bank of Dallas,United States
+114,Cowles Foundation for Research in Economics                                          ,"New Haven, Connecticut (USA)           ",Yale University,United States
+115,W.P. Carey School of Business                                                        ,"Tempe, Arizona (USA)                   ",Arizona State University,United States
+116,                                                                                     ,"Ottawa, Canada                         ",Bank of Canada,Canada
+117,                                                                                     ,"London, United Kingdom                 ",London Business School (LBS),United Kingdom
+118,                                                                                     ,"Wien, Austria                          ",Ãsterreichisches Institut fÃ¼r Wirtschaftsforschung (WIFO),Unknown
+119,Tuck School of Business                                                              ,"Hanover, New Hampshire (USA)           ",Dartmouth College,United States
+119,Finance Department                                                                   ,"Philadelphia, Pennsylvania (USA)       ","Wharton School of Business, University of Pennsylvania",United States
+120,                                                                                     ,"Frankfurt, Germany                     ",Deutsche Bundesbank,Germany
+121,Faculty of Business and Economics                                                    ,"Melbourne, Australia                   ",University of Melbourne,Unknown
+121,Economic Research                                                                    ,"San Francisco, California (USA)        ",Federal Reserve Bank of San Francisco,United States
+122,Department of Economics                                                              ,"St. Louis, Missouri (USA)              ",Washington University in St. Louis,United States
+123,                                                                                     ,"Bergen, Norway                         ",Norges HandelshÃ¸yskole (NHH),Norway
+124,Rotman School of Management                                                          ,"Toronto, Canada                        ",University of Toronto,Canada
+125,Department of Economics                                                              ,"New Brunswick, New Jersey (USA)        ",Rutgers University-New Brunswick,United States
+125,Economics Department                                                                 ,"New York City, New York (USA)          ","Stern School of Business, New York University (NYU)",United States
+126,Department of Economics                                                              ,"Columbus, Ohio (USA)                   ",Ohio State University,United States
+127,                                                                                     ,"MÃ¼nchen, Germany                       ",CESifo,Germany
+128,Olin School of Business                                                              ,"St. Louis, Missouri (USA)              ",Washington University in St. Louis,United States
+129,                                                                                     ,"Washington, District of Columbia (USA) ",Inter-American Development Bank,United States
+129,Research Department                                                                  ,"Washington, District of Columbia (USA) ",International Monetary Fund (IMF),United States
+130,Volkswirtschaftliche FakultÃ¤t                                                        ,"MÃ¼nchen, Germany                       ",Ludwig-Maximilians-UniversitÃ¤t MÃ¼nchen,Germany
+131,Eitan Berglas School of Economics                                                    ,"Tel Aviv, Israel                       ",Tel Aviv University,Israel
+132,Department of Economics                                                              ,"Boulder, Colorado (USA)                ",University of Colorado,United States
+133,College of Business and Economics                                                    ,"Canberra, Australia                    ",Australian National University,Australia
+133,European Centre for Advanced Research in Economics and Statistics (ECARES)           ,"Bruxelles, Belgium                     ","Solvay Brussels School of Economics and Management, UniversitÃ© Libre de Bruxelles",Belgium
+133,Department of Finance                                                                ,"Evanston, Illinois (USA)               ","Kellogg Graduate School of Management, Northwestern University",United States
+134,Fachbereich Wirtschaftswissenschaft                                                  ,"Frankfurt am Main, Germany             ",Goethe UniversitÃ¤t Frankfurt am Main,Germany
+135,Economics Department                                                                 ,"Santa Cruz, California (USA)           ",University of California-Santa Cruz (UCSC),United States
+136,Ãkonomisk institutt                                                                  ,"Oslo, Norway                           ",Universitetet i Oslo,Norway
+136,Center for Operations Research and Econometrics (CORE)                               ,"Louvain-la-Neuve, Belgium              ","Louvain Institute of Data Analysis and Modelling in Economics and Statistics (LIDAM), UniversitÃ© Catholique de Louvain",Belgium
+137,Charles H. Dyson School of Applied Economics and Management                          ,"Ithaca, New York (USA)                 ","College of Agriculture and Life Sciences, Cornell University",United States
+138,Department of Agricultural and Resource Economics                                    ,"Berkeley, California (USA)             ",University of California-Berkeley,United States
+139,Departamento de EconomÃ­a                                                             ,"Madrid, Spain                          ",Universidad Carlos III de Madrid,Spain
+139,Research School of Economics                                                         ,"Canberra, Australia                    ","College of Business and Economics, Australian National University",Australia
+140,                                                                                     ,"KÃ¸benhavn, Denmark                     ",Copenhagen Business School,Unknown
+141,Department of Commerce                                                               ,"Washington, District of Columbia (USA) ",Government of the United States,United States
+142,Department of Economics                                                              ,"Jerusalem, Israel                      ",Hebrew University of Jerusalem,Israel
+143,Fisher College of Business                                                           ,"Columbus, Ohio (USA)                   ",Ohio State University,United States
+144,                                                                                     ,"Philadelphia, Pennsylvania (USA)       ",Federal Reserve Bank of Philadelphia,United States
+145,                                                                                     ,"Cleveland, Ohio (USA)                  ",Federal Reserve Bank of Cleveland,United States
+145,Research Department                                                                  ,"Minneapolis, Minnesota (USA)           ",Federal Reserve Bank of Minneapolis,United States
+146,School of Business and Economics                                                     ,"Maastricht, Netherlands                ",Maastricht University,Netherlands
+147,                                                                                     ,"Amsterdam, Netherlands                 ",Tinbergen Instituut,Netherlands
+148,Andrew Young School of Policy Studies                                                ,"Atlanta, Georgia (USA)                 ",Georgia State University,United States
+149,                                                                                     ,"Wien, Austria                          ",WU WirtschaftsuniversitÃ¤t Wien,Unknown
+150,                                                                                     ,"Jouy-en-Josas, France                  ",HEC Paris (Ãcole des Hautes Ãtudes Commerciales),France
+150,Department of Economics                                                              ,"Tempe, Arizona (USA)                   ","W.P. Carey School of Business, Arizona State University",United States
+151,Dipartimenti e Istituti di Scienze Economiche                                        ,"Milano/Piacenza, Italy                 ",UniversitÃ  Cattolica del Sacro Cuore,Italy
+152,Sussex Business School                                                               ,"Brighton, United Kingdom               ",University of Sussex,United Kingdom
+153,Marshall School of Business                                                          ,"Los Angeles, California (USA)          ",University of Southern California,United States
+153,School of Economics                                                                  ,"Sydney, Australia                      ","UNSW Business School, UNSW Sydney",Australia
+154,Mitchell E. Daniels                                                                  ,"West Lafayette, Indiana (USA)          ","Jr. School of Business, Purdue University",United States
+155,Wirtschaftswissenschaftlicher Fachbereich                                            ,"Bonn, Germany                          ",Rheinische Friedrich-Wilhelms-UniversitÃ¤t Bonn,Germany
+156,Department of Economics                                                              ,"Washington, District of Columbia (USA) ",George Washington University,United States
+157,Department of Economics                                                              ,"Seattle, Washington (USA)              ",University of Washington,United States
+158,Eller College of Management                                                          ,"Tucson, Arizona (USA)                  ",University of Arizona,United States
+158,Census Bureau                                                                        ,"Washington, District of Columbia (USA) ","Department of Commerce, Government of the United States",United States
+159,Abteilung fÃ¼r Volkswirtschaftslehre                                                  ,"Mannheim, Germany                      ",UniversitÃ¤t Mannheim,Germany
+160,Department of Economics                                                              ,"MontrÃ©al, Canada                       ",McGill University,Canada
+160,Department of Geography and Environment                                              ,"London, United Kingdom                 ",London School of Economics (LSE),United Kingdom
+161,FacultÃ© des Hautes Ãtudes Commerciales (HEC)                                         ,"Lausanne, Switzerland                  ",UniversitÃ© de Lausanne,Switzerland
+161,Economics Department                                                                 ,"Tucson, Arizona (USA)                  ","Eller College of Management, University of Arizona",United States
+162,Adam Smith Business School                                                           ,"Glasgow, United Kingdom                ",University of Glasgow,United Kingdom
+163,School of Economics                                                                  ,"Sydney, Australia                      ","Faculty of Arts and Social Sciences, University of Sydney",Australia
+163,Department of Economics                                                              ,"Atlanta, Georgia (USA)                 ","Andrew Young School of Policy Studies, Georgia State University",United States
+164,School of Public and International Affairs                                           ,"Princeton, New Jersey (USA)            ",Princeton University,United States
+165,                                                                                     ,"Paris, France                          ",UniversitÃ© Paris-Dauphine (Paris IX),France
+166,Department of Economics                                                              ,"Pittsburgh, Pennsylvania (USA)         ",University of Pittsburgh,United States
+167,FacoltÃ  di Economia                                                                  ,"Roma, Italy                            ",UniversitÃ  degli Studi di Roma Tor Vergata,Italy
+168,                                                                                     ,"Roma, Italy                            ",Istituto Einaudi per l'Economia e la Finanza (EIEF),Italy
+169,FakultÃ¤t fÃ¼r Wirtschaftswissenschaften                                               ,"Wien, Austria                          ",UniversitÃ¤t Wien,Unknown
+170,Sauder School of Business                                                            ,"Vancouver, Canada                      ",University of British Columbia,Canada
+171,Department of Economics                                                              ,"Medford, Massachusetts (USA)           ",Tufts University,United States
+172,Economics Department                                                                 ,"Williamstown, Massachusetts (USA)      ",Williams College,United States
+172,Department of Finance and Business Economics                                         ,"Los Angeles, California (USA)          ","Marshall School of Business, University of Southern California",United States
+173,Economic Research Service                                                            ,"Washington, District of Columbia (USA) ","Department of Agriculture, Government of the United States",United States
+173,Economics Department                                                                 ,"Paris, France                          ",Organisation de CoopÃ©ration et de DÃ©veloppement Ãconomiques (OCDE),France
+174,                                                                                     ,"Boston, Massachusetts (USA)            ",Federal Reserve Bank of Boston,United States
+175,Fuqua School of Business                                                             ,"Durham, North Carolina (USA)           ",Duke University,United States
+176,                                                                                     ,"Washington, District of Columbia (USA) ",Resources for the Future (RFF),United States
+177,EkonomihÃ¶gskolan                                                                     ,"Lund, Sweden                           ",Lunds Universitet,Sweden
+178,                                                                                     ,"Stockholm, Sweden                      ",Institutet fÃ¶r NÃ¤ringslivsforskning (IFN),Sweden
+179,Institute for International Economic Studies (IIES)                                  ,"Stockholm, Sweden                      ",Stockholms Universitet,Sweden
+180,                                                                                     ,"Napoli, Italy                          ",Centro Studi di Economia e Finanza (CSEF),Italy
+181,                                                                                     ,"Mannheim, Germany                      ",Leibniz-Zentrum fÃ¼r EuropÃ¤ische Wirtschaftsforschung (ZEW),Germany
+182,                                                                                     ,"BucureÅti, Romania                     ",Academia de Studii Economice din BucureÅti,Romania
+182,Dipartimento di Economia Ettore Bocconi                                              ,"Milano, Italy                          ",UniversitÃ  Commerciale Luigi Bocconi,Italy
+183,                                                                                     ,"Atlanta, Georgia (USA)                 ",Federal Reserve Bank of Atlanta,United States
+184,Department of Economics                                                              ,"Urbana-Champaign, Illinois (USA)       ",University of Illinois at Urbana-Champaign,United States
+185,School of Economics and Finance                                                      ,"London, United Kingdom                 ",Queen Mary University of London,United Kingdom
+186,Faculty of Economics                                                                 ,"Tokyo, Japan                           ",University of Tokyo,Japan
+187,Department of Economics                                                              ,"Ames, Iowa (USA)                       ",Iowa State University,United States
+188,Department of Management                                                             ,"ZÃ¼rich, Switzerland                    ","Technology and Economics (D-MTEC), EidgenÃ¶ssische Technische Hochschule ZÃ¼rich (ETHZ)",Switzerland
+188,Centre de Recerca en Economia Internacional (CREI)                                   ,"Barcelona, Spain                       ",Barcelona School of Economics (BSE),Spain
+189,Wirtschafts- und Sozialwissenschaftliche FakultÃ¤t                                    ,"KÃ¶ln, Germany                          ",UniversitÃ¤t zu KÃ¶ln,Germany
+190,Business School                                                                      ,"Sydney, Australia                      ",University of Technology Sydney,Australia
+191,Department of Economics                                                              ,"College Station, Texas (USA)           ",Texas A&M University,United States
+192,Economics                                                                            ,"Abu Dhabi, United Arab Emirates        ",New York University Abu Dhabi,United Arab Emirates
+193,Facultad de EconomÃ­a y Negocios                                                      ,"Santiago, Chile                        ",Universidad de Chile,Unknown
+194,Ross School of Business                                                              ,"Ann Arbor, Michigan (USA)              ",University of Michigan,United States
+195,                                                                                     ,"Kiel, Germany                          ",Kiel Institut fÃ¼r Weltwirtschaft - Leibniz Zentrum zur Erforschung globaler Ã¶konomischer Herausforderungen (IfW),Germany
+195,Department of Economics                                                              ,"Glasgow, United Kingdom                ","Adam Smith Business School, University of Glasgow",United Kingdom
+196,Leonard D. Schaeffer Center for Health Policy and Economics                          ,"Los Angeles, California (USA)          ",University of Southern California,United States
+197,HandelshÃ¶gskolan                                                                     ,"GÃ¶teborg, Sweden                       ",GÃ¶teborgs Universitet,Sweden
+198,                                                                                     ,"Athens, Greece                         ",Athens University of Economics and Business (AUEB),Greece
+199,Department of Economics                                                              ,"Manchester, United Kingdom             ","School of Social Sciences, University of Manchester",Unknown
+200,Faculteit Economie en Bedrijfskunde                                                  ,"Gent, Belgium                          ",Universiteit Gent,Unknown
+201,School of Economics                                                                  ,"Barcelona, Spain                       ",Universitat de Barcelona,Spain
+202,Centre d'Ãconomie de la Sorbonne                                                     ,"Paris, France                          ",UniversitÃ© Paris 1 (PanthÃ©on-Sorbonne),France
+203,Judge Business School                                                                ,"Cambridge, United Kingdom              ",University of Cambridge,United Kingdom
+203,Dipartimento di Economia e Finanza                                                   ,"Roma, Italy                            ","FacoltÃ  di Economia, UniversitÃ  degli Studi di Roma Tor Vergata",Italy
+204,Business School                                                                      ,"Melbourne, Australia                   ",Deakin University,Unknown
+205,Economics Department                                                                 ,"Fairfax, Virginia (USA)                ",George Mason University,United States
+206,Department of Economics                                                              ,"Burnaby, Canada                        ",Simon Fraser University,Canada
+207,                                                                                     ,"Lille, France                          ",SKEMA Business School,France
+208,Economics Department                                                                 ,"Colchester, United Kingdom             ",University of Essex,United Kingdom
+209,Institutul National de Cercetari Economice (INCE)                                    ,"BucureÅti, Romania                     ",Academia Romana,Romania
+210,Department of Agricultural                                                           ,"East Lansing, Michigan (USA)           ","Food and Resource Economics, College of Agriculture and Natural Resources, Michigan State University",United States
+210,Department of Economics                                                              ,"West Lafayette, Indiana (USA)          ","Mitchell E. Daniels, Jr. School of Business, Purdue University",United States
+211,                                                                                     ,"Richmond, Virginia (USA)               ",Federal Reserve Bank of Richmond,United States
+212,Faculty of Business and Economics                                                    ,"Pokfulam, Hong Kong                    ",University of Hong Kong,Hong Kong
+213,Nationalekonomiska Institutionen                                                     ,"Uppsala, Sweden                        ",Uppsala Universitet,Sweden
+214,FacoltÃ  di Economia                                                                  ,"Roma, Italy                            ",Sapienza UniversitÃ  di Roma,Italy
+215,Department of Economics                                                              ,"Atlanta, Georgia (USA)                 ",Emory University,United States
+216,                                                                                     ,"Oslo, Norway                           ",BI HandelshÃ¸yskolen,Norway
+216,Institutt for samfunnsÃ¸konomi                                                        ,"Bergen, Norway                         ",Norges HandelshÃ¸yskole (NHH),Norway
+217,School of Economics                                                                  ,"Edinburgh, United Kingdom              ",University of Edinburgh,United Kingdom
+217,Department of Finance                                                                ,"Columbus, Ohio (USA)                   ","Fisher College of Business, Ohio State University",United States
+217,Economic Research                                                                    ,"Cleveland, Ohio (USA)                  ",Federal Reserve Bank of Cleveland,United States
+218,Division of Social Sciences                                                          ,"Pasadena, California (USA)             ",California Institute of Technology,United States
+218,Research Department                                                                  ,"Philadelphia, Pennsylvania (USA)       ",Federal Reserve Bank of Philadelphia,United States
+219,SaÃ¯d Business School                                                                 ,"Oxford, United Kingdom                 ",Oxford University,United Kingdom
+219,Finance Unit                                                                         ,"Cambridge, Massachusetts (USA)         ","Harvard Business School, Harvard University",United States
+220,Department Volkswirtschaftlehre                                                      ,"Bern, Switzerland                      ",UniversitÃ¤t Bern,Switzerland
+221,Department of Economics                                                              ,"Eugene, Oregon (USA)                   ",University of Oregon,United States
+222,Department of Economics                                                              ,"Bloomington, Indiana (USA)             ",Indiana University,United States
+222,Center for Economic Studies                                                          ,"Washington, District of Columbia (USA) ","Census Bureau, Department of Commerce, Government of the United States",United States
+223,School of Economics                                                                  ,"Dublin, Ireland                        ",University College Dublin,Ireland
+223,Department of Economics                                                              ,"Stockholm, Sweden                      ",Stockholm School of Economics,Sweden
+223,Nationalekonomiska Institutionen                                                     ,"Lund, Sweden                           ","EkonomihÃ¶gskolan, Lunds Universitet",Sweden
+224,Department of Economics                                                              ,"Birmingham, United Kingdom             ",University of Birmingham,United Kingdom
+225,Department of Economics                                                              ,"Singapore, Singapore                   ",National University of Singapore (NUS),Singapore
+226,Shanghai Advanced Institute of Finance (SAIF)                                        ,"Shanghai, China                        ",Shanghai Jiao Tong University,China
+227,School of Economics and Political Science                                            ,"Sankt Gallen, Switzerland              ",UniversitÃ¤t St. Gallen,Switzerland
+228,Institut ekonomickÃ½ch studiÃ­                                                         ,"Praha, Czech Republic                  ",Univerzita Karlova v Praze,Unknown
+228,Real Estate Department                                                               ,"Philadelphia, Pennsylvania (USA)       ","Wharton School of Business, University of Pennsylvania",United States
+228,Economic Research Department                                                         ,"Dallas, Texas (USA)                    ",Federal Reserve Bank of Dallas,United States
+229,Argyros School of Business and Economics                                             ,"Orange, California (USA)               ",Chapman University,United States
+230,School of Business and Economics                                                     ,"Lisboa, Portugal                       ",Universidade Nova de Lisboa,Portugal
+231,Department of Economics                                                              ,"Hamilton, Canada                       ",McMaster University,Canada
+231,Economic Research Department                                                         ,"Chicago, Illinois (USA)                ",Federal Reserve Bank of Chicago,United States
+231,Department of Economics                                                              ,"London, United Kingdom                 ",London Business School (LBS),United Kingdom
+232,Carol Martin Gatton College of Business and Economics                                ,"Lexington, Kentucky (USA)              ",University of Kentucky,United States
+233,WydziaÅ Nauk Ekonomicznych                                                           ,"Warszawa, Poland                       ",Uniwersytet Warszawski,Poland
+234,College of Business and Behavioral Science                                           ,"Clemson, South Carolina (USA)          ",Clemson University,United States
+235,Department of Agricultural and Resource Economics                                    ,"College Park, Maryland (USA)           ",University of Maryland,United States
+236,Department of Economics                                                              ,"Waltham, Massachusetts (USA)           ","International Business School, Brandeis University",United States
+237,Department of Economics                                                              ,"Storrs, Connecticut (USA)              ",University of Connecticut,United States
+238,                                                                                     ,"Maastricht, Netherlands                ",United Nations University-Maastricht Economic Research Institute of Innovation and Technology (UNU-MERIT),Netherlands
+239,Dipartimento di Economia                                                             ,"Venezia, Italy                         ",Universita Ca Foscari Venezia,Italy
+240,                                                                                     ,"Beijing, China                         ",Cheung Kong Graduate School of Business,China
+240,John E. Walker Department of Economics                                               ,"Clemson, South Carolina (USA)          ","College of Business and Behavioral Science, Clemson University",United States
+241,Instituto Superior de Economia e GestÃ£o (ISEG)                                       ,"Lisboa, Portugal                       ",Universidade de Lisboa,Portugal
+242,Robert Schuman Centre for Advanced Studies (RSCAS)                                   ,"Firenze, Italy                         ",European University Institute,Unknown
+243,School of Economics                                                                  ,"Bristol, United Kingdom                ",University of Bristol,United Kingdom
+244,School of Economics                                                                  ,"Guildford, United Kingdom              ",University of Surrey,United Kingdom
+244,Finance Area                                                                         ,"Durham, North Carolina (USA)           ","Fuqua School of Business, Duke University",United States
+244,                                                                                     ,"Wellington, New Zealand                ",Motu: Economic & Public Policy Research,New Zealand
+246,Department of Economics                                                              ,"Calgary, Canada                        ",University of Calgary,Canada
+247,International Economics Section                                                      ,"GenÃ¨ve, Switzerland                    ",The Graduate Institute of International and Development Studies,Switzerland
+248,Economics Department                                                                 ,"Rochester, New York (USA)              ",University of Rochester,United States
+249,Graduate School of Economics and Management                                          ,"Saint-Aubin, France                    ",UniversitÃ© Paris-Saclay,France
+249,Stanford Institute for Economic Policy Research (SIEPR)                              ,"Stanford, California (USA)             ",Stanford University,United States
+251,Miami Herbert Business School                                                        ,"Coral Gables, Florida (USA)            ",University of Miami,United States
+251,Economic Research Department                                                         ,"Atlanta, Georgia (USA)                 ",Federal Reserve Bank of Atlanta,United States
+251,Departamento de EconomÃ­a                                                             ,"Santiago, Chile                        ","Facultad de EconomÃ­a y Negocios, Universidad de Chile",Unknown
+252,Dipartimento di Scienze Economiche e Aziendali Marco Fanno                           ,"Padova, Italy                          ",UniversitÃ  degli Studi di Padova,Italy
+253,Dipartimento di Economia                                                             ,"Milano, Italy                          ","Management e Metodi Quantitativi (DEMM), UniversitÃ  degli Studi di Milano",Italy
+253,Strategy and Business Economics Division                                             ,"Vancouver, Canada                      ","Sauder School of Business, University of British Columbia",Canada
+253,Department of Economics                                                              ,"Brighton, United Kingdom               ","Sussex Business School, University of Sussex",United Kingdom
+254,Nationalekonomiska institutionen                                                     ,"Stockholm, Sweden                      ",Stockholms Universitet,Sweden
+255,Department of Economics                                                              ,"Syracuse, New York (USA)               ","Maxwell School, Syracuse University",United States
+256,                                                                                     ,"MontrÃ©al, Canada                       ",HEC MontrÃ©al (Ãcole des Hautes Ãtudes Commerciales),Canada
+257,Dipartimento di Economia e Statistica Cognetti de Martiis                            ,"Torino, Italy                          ",UniversitÃ  degli Studi di Torino,Italy
+258,                                                                                     ,"London, United Kingdom                 ",Institute for Fiscal Studies (IFS),United Kingdom
+259,Division of Economics                                                                ,"Seoul, South Korea                     ",Seoul National University,"Korea, Republic of"
+260,Terry College of Business                                                            ,"Athens, Georgia (USA)                  ",University of Georgia,United States
+261,Bordeaux Sciences Ãconomiques (BSE)                                                  ,"Bordeaux, France                       ",UniversitÃ© de Bordeaux,France
+261,Centrum voor Economische StudiÃ«n                                                     ,"Leuven, Belgium                        ","Faculteit Economie en Bedrijfswetenschappen, KU Leuven",Belgium
+262,Department of Agricultural and Resource Economics                                    ,"Davis, California (USA)                ",University of California-Davis,United States
+263,Jeb E. Brooks School of Public Policy                                                ,"Ithaca, New York (USA)                 ",Cornell University,United States
+263,International Bank for Reconstruction & Development (IBRD)                           ,"Washington, District of Columbia (USA) ",World Bank Group,United States
+264,Kelley School of Business                                                            ,"Bloomington, Indiana (USA)             ",Indiana University,United States
+264,Economic Growth Center                                                               ,"New Haven, Connecticut (USA)           ","Economics Department, Yale University",United States
+265,                                                                                     ,"Amsterdam, Netherlands                 ",de Nederlandsche Bank,Netherlands
+265,Economic Science Institute (ESI)                                                     ,"Orange, California (USA)               ","Argyros School of Business and Economics, Chapman University",United States
+266,Facultad de EconomÃ­a                                                                 ,"BogotÃ¡, Colombia                       ",Universidad de los Andes (Colombia),Colombia
+266,Institutionen fÃ¶r Nationalekonomi med Statistik                                      ,"GÃ¶teborg, Sweden                       ","HandelshÃ¶gskolan, GÃ¶teborgs Universitet",Sweden
+267,Fachbereich Wirtschaftswissenschaften                                                ,"Konstanz, Germany                      ",UniversitÃ¤t Konstanz,Germany
+268,                                                                                     ,"Fontainebleau, France                  ",INSEAD,France
+268,Department of Economics                                                              ,"Melbourne, Australia                   ","Faculty of Business and Economics, University of Melbourne",Unknown
+269,Economics Department                                                                 ,"Columbia, Missouri (USA)               ",University of Missouri,United States
+270,EconomiX                                                                             ,"Nanterre, France                       ",UniversitÃ© Paris-Nanterre (Paris X),France
+270,Centro de Estudios Economicos Regionales (CEER)                                      ,"Cartagena, Colombia                    ",Banco de la Republica de Colombia,Colombia
+271,Rady School of Management                                                            ,"La Jolla, California (USA)             ",University of California-San Diego (UCSD),United States
+272,Department of Economics                                                              ,"Ottawa, Canada                         ",Carleton University,Canada
+272,Department of Economics                                                              ,"Lexington, Kentucky (USA)              ","Carol Martin Gatton College of Business and Economics, University of Kentucky",United States
+272,Departament d'Economia i HistÃ²ria EconÃ²mica                                          ,"Barcelona, Spain                       ","Universitat AutÃ²noma de Barcelona, Barcelona School of Economics (BSE)",Spain
+272,Institut d'AnÃ lisi EconÃ²mica CSIC (IAE-CSIC)                                         ,"Barcelona, Spain                       ",Barcelona School of Economics (BSE),Spain
+273,FacultÃ© de droit                                                                     ,"Luxembourg, Luxembourg                 ","d'Ã©conomie et de finance, UniversitÃ© du Luxembourg",Luxembourg
+273,DÃ©partment Ãconomie et Sciences de la DÃ©cision                                       ,"Jouy-en-Josas, France                  ",HEC Paris (Ãcole des Hautes Ãtudes Commerciales),France
+273,Department of Econometrics and Business Statistics                                   ,"Melbourne, Australia                   ","Monash Business School, Monash University",Unknown
+274,Department of Economics                                                              ,"Seoul, South Korea                     ",Korea University,"Korea, Republic of"
+275,Warrington College of Business                                                       ,"Gainesville, Florida (USA)             ",University of Florida,United States
+276,College of Business                                                                  ,"Urbana-Champaign, Illinois (USA)       ",University of Illinois at Urbana-Champaign,United States
+276,Centre de recherche en Ãconomie (OFCE)                                               ,"Paris, France                          ","Sciences Ã©conomiques, Sciences Po",France
+277,                                                                                     ,"NÃ¼rnberg, Germany                      ",Institut fÃ¼r Arbeitsmarkt- und Berufsforschung (IAB),Germany
+278,                                                                                     ,"GenÃ¨ve/ZÃ¼rich, Switzerland             ",Swiss Finance Institute,Switzerland
+278,Department of Economics                                                              ,"Melbourne, Australia                   ","Business School, Deakin University",Unknown
+279,                                                                                     ,"Singapore, Singapore                   ",Singapore Management University,Singapore
+279,DÃ©partment d'Ã©conomÃ©trie et d'Ã©conomie politique (DEEP)                              ,"Lausanne, Switzerland                  ","FacultÃ© des Hautes Ãtudes Commerciales (HEC), UniversitÃ© de Lausanne",Switzerland
+280,Management School                                                                    ,"Lancaster, United Kingdom              ",Lancaster University,United Kingdom
+281,Department of Agricultural and Resource Economics                                    ,"Raleigh, North Carolina (USA)          ",North Carolina State University,United States
+282,IESE Business School                                                                 ,"Barcelona, Spain                       ",Universidad de Navarra,Spain
+283,Institut fÃ¼r Volkswirtschaftslehre                                                   ,"Linz, Austria                          ",Johannes-Kepler-UniversitÃ¤t Linz,Unknown
+283,Economic Research Division                                                           ,"Richmond, Virginia (USA)               ",Federal Reserve Bank of Richmond,United States
+284,Department of Agricultural Economics                                                 ,"West Lafayette, Indiana (USA)          ",Purdue University,United States
+284,Center for Research in Econometric Analysis of Time Series (CREATES)                 ,"Aarhus, Denmark                        ","Institut for Ãkonomi, Aarhus Universitet",Unknown
+284,Department of Economics                                                              ,"Athens, Georgia (USA)                  ","Terry College of Business, University of Georgia",United States
+285,                                                                                     ,"Lille, France                          ",Lille Ãconomie et Management (LEM),France
+286,Department of Economics                                                              ,"Dublin, Ireland                        ",Trinity College Dublin,Ireland
+286,International Economics Section                                                      ,"Princeton, New Jersey (USA)            ","Department of Economics, Princeton University",United States
+287,Facultad de EconomÃ­a                                                                 ,"ValÃ¨ncia, Spain                        ",Universidad de ValÃ¨ncia,Spain
+288,                                                                                     ,"Beijing, China                         ",Central University of Finance and Economics (CUFE),China
+289,                                                                                     ,"Stockholm, Sweden                      ",Sveriges Riksbank,Sweden
+289,Dipartimento di Finanza                                                              ,"Milano, Italy                          ",UniversitÃ  Commerciale Luigi Bocconi,Italy
+290,                                                                                     ,"Piraeus, Greece                        ",University of Piraeus,Greece
+291,Wirtschaftswissenschaftliches Zentrum                                                ,"Basel, Switzerland                     ",UniversitÃ¤t Basel,Switzerland
+292,Laboratory of Economics and Management (LEM)                                         ,"Pisa, Italy                            ",Scuola Superiore Sant'Anna,Unknown
+293,Business School                                                                      ,"Exeter, United Kingdom                 ",University of Exeter,United Kingdom
+294,Cardiff Business School                                                              ,"Cardiff, United Kingdom                ",Cardiff University,Unknown
+295,William E. Simon Graduate School of Business Administration                          ,"Rochester, New York (USA)              ",University of Rochester,United States
+296,                                                                                     ,"Bern/ZÃ¼rich, Switzerland               ",Schweizerische Nationalbank (SNB),Switzerland
+296,Arndt-Corden Department of Economics                                                 ,"Canberra, Australia                    ","Crawford School of Public Policy, Australian National University",Australia
+297,Facultad de EconomÃ­a y Empresa                                                       ,"Zaragoza, Spain                        ",Universidad de Zaragoza,Spain
+297,Economics Group                                                                      ,"Oxford, United Kingdom                 ","Nuffield College, Department of Economics, Oxford University",United Kingdom
+298,Department of Economics                                                              ,"Houston, Texas (USA)                   ",Rice University,United States
+299,Department of Economics                                                              ,"Houston, Texas (USA)                   ",University of Houston,United States
+299,Applied Economics Workshop                                                           ,"Chicago, Illinois (USA)                ","Booth School of Business, University of Chicago",United States
+300,Fanhai International School of Finance                                               ,"Shanghai, China                        ",Fudan University,China
+301,Economics Department                                                                 ,"Glasgow, United Kingdom                ",University of Strathclyde,United Kingdom
+301,Economic Research                                                                    ,"Boston, Massachusetts (USA)            ",Federal Reserve Bank of Boston,United States
+302,Robert H. Smith School of Business                                                   ,"College Park, Maryland (USA)           ",University of Maryland,United States
+303,Department of Economics                                                              ,"Egham, United Kingdom                  ",Royal Holloway,United Kingdom
+304,Waikato Management School                                                            ,"Hamilton, New Zealand                  ",University of Waikato,New Zealand
+305,FacoltÃ  di Economia Giorgio FuÃ                                                       ,"Ancona, Italy                          ",UniversitÃ  Politecnica delle Marche,Italy
+306,Tepper School of Business Administration                                             ,"Pittsburgh, Pennsylvania (USA)         ",Carnegie Mellon University,United States
+306,Center for Global Management                                                         ,"Los Angeles, California (USA)          ","Anderson Graduate School of Management, University of California-Los Angeles (UCLA)",United States
+307,Wirtschaftswissenschaftliche FakultÃ¤t                                                ,"Berlin, Germany                        ",Humboldt-UniversitÃ¤t Berlin,Germany
+307,Econometrisch Instituut                                                              ,"Rotterdam, Netherlands                 ","Faculteit der Economische Wetenschappen, Erasmus Universiteit Rotterdam",Netherlands
+307,School of Economics                                                                  ,"Singapore, Singapore                   ",Singapore Management University,Singapore
+307,Economic Analysis & Policy Group (EAP)                                               ,"Berkeley, California (USA)             ","Walter A. Haas School of Business, University of California-Berkeley",United States
+308,Department of Economics                                                              ,"Firenze, Italy                         ",European University Institute,Unknown
+309,Guanghua School of Management                                                        ,"Beijing, China                         ",Peking University,China
+309,Institut fÃ¼r Volkswirtschaftslehre                                                   ,"Wien, Austria                          ","FakultÃ¤t fÃ¼r Wirtschaftswissenschaften, UniversitÃ¤t Wien",Unknown
+310,School of Economics                                                                  ,"Canterbury, United Kingdom             ",University of Kent,United Kingdom
+311,Department of Applied Economics                                                      ,"St. Paul, Minnesota (USA)              ","College of Agricultural, Food, and Environmental Sciences, University of Minnesota-St. Paul",United States
+312,Scuola di Economia e Statistica                                                      ,"Milano, Italy                          ",UniversitÃ  degli Studi di Milano-Bicocca,Italy
+313,DÃ©partement d'Ãconomie                                                               ,"Ottawa, Canada                         ",UniversitÃ© d'Ottawa,Canada
+313,Finance Department                                                                   ,"London, United Kingdom                 ",London School of Economics (LSE),United Kingdom
+314,Escola de Economia de SÃ£o Paulo (EESP)                                               ,"SÃ£o Paulo, Brazil                      ",FundaÃ§Ã£o GetÃºlio Vargas (FGV),Brazil
+315,Geneva School of Economics and Management                                            ,"GenÃ¨ve, Switzerland                    ",UniversitÃ© de GenÃ¨ve,Switzerland
+316,Bayes Business School                                                                ,"London, United Kingdom                 ",City University,United Kingdom
+317,Department of Economics                                                              ,"New Orleans, Louisiana (USA)           ",Tulane University,United States
+317,Melbourne Institute of Applied Economic and Social Research (MIAESR)                 ,"Melbourne, Australia                   ","Faculty of Business and Economics, University of Melbourne",Unknown
+318,Department of Economics                                                              ,"Toronto, Canada                        ",York University,Canada
+319,                                                                                     ,"Bruxelles/Brussel, Belgium             ",Nationale Bank van BelgiÃ«/Banque national de Belqique (BNB),Belgium
+320,ThÃ©orie Ãconomique                                                                   ,"Cergy-Pontoise, France                 ","ModÃ©lisation, Application (THEMA), UniversitÃ© de Cergy-Pontoise",France
+321,College of Business                                                                  ,"Laramie, Wyoming (USA)                 ",University of Wyoming,United States
+322,Facultad de Ciencias EconÃ³micas y Empresariales                                      ,"Madrid, Spain                          ",Universidad Complutense de Madrid,Spain
+323,LeBow College of Business                                                            ,"Philadelphia, Pennsylvania (USA)       ",Drexel University,United States
+324,Center for Energy and Environmental Policy Research (CEEP)                           ,"Beijing, China                         ",Beijing Institute of Technology,China
+324,Economics Discipline Group                                                           ,"Sydney, Australia                      ","Business School, University of Technology Sydney",Australia
+325,EPGE Escola Brasileira de Economia e FinanÃ§as                                        ,"Rio de Janeiro, Brazil                 ",FundaÃ§Ã£o GetÃºlio Vargas (FGV),Brazil
+325,Department of Economics                                                              ,"Laramie, Wyoming (USA)                 ","College of Business, University of Wyoming",United States
+326,Institutet fÃ¶r Social Forskning (SOFI)                                               ,"Stockholm, Sweden                      ",Stockholms Universitet,Sweden
+327,Lerner College of Business and Economics                                             ,"Newark, Delaware (USA)                 ",University of Delaware,United States
+328,Scuola di Economia e Management                                                      ,"Firenze, Italy                         ",UniversitÃ  degli Studi di Firenze,Unknown
+329,Department of Economics                                                              ,"Chapel Hill, North Carolina (USA)      ",University of North Carolina-Chapel-Hill,United States
+330,Facultad de EconomÃ­a y Empresa                                                       ,"Bilbao, Spain                          ",Universidad del PaÃ­s Vasco - Euskal Herriko Unibertsitatea,Spain
+331,FakultÃ¤t fÃ¼r Wirtschafts- und Sozialwissenschaften                                   ,"Heidelberg, Germany                    ",Ruprecht-Karls-UniversitÃ¤t Heidelberg,Germany
+331,Department of Economics                                                              ,"Coral Gables, Florida (USA)            ","Miami Herbert Business School, University of Miami",United States
+332,                                                                                     ,"Lisboa, Portugal                       ",Banco de Portugal,Portugal
+333,Wirtschaftswissenschaftliche FakultÃ¤t                                                ,"DÃ¼sseldorf, Germany                    ",Heinriche-Heine-UniversitÃ¤t DÃ¼sseldorf,Germany
+333,Laboratoire d'Ãconomie de Dauphine (LEDa)                                            ,"Paris, France                          ",UniversitÃ© Paris-Dauphine (Paris IX),France
+334,H. John Heinz III School of Public Policy and Management                             ,"Pittsburgh, Pennsylvania (USA)         ",Carnegie Mellon University,United States
+335,School of Economics                                                                  ,"Utrecht, Netherlands                   ",Universiteit Utrecht,Unknown
+335,Dipartimento di Scienze per l'Economia e l'Impresa                                   ,"Firenze, Italy                         ","Scuola di Economia e Management, UniversitÃ  degli Studi di Firenze",Unknown
+336,Faculty of Economics                                                                 ,"Tokyo, Japan                           ",Keio University,Japan
+336,Alfred-Weber-Institut fÃ¼r Wirtschaftswissenschaften                                  ,"Heidelberg, Germany                    ","FakultÃ¤t fÃ¼r Wirtschafts- und Sozialwissenschaften, Ruprecht-Karls-UniversitÃ¤t Heidelberg",Germany
+337,Department of Economics                                                              ,"Wellesley, Massachusetts (USA)         ",Wellesley College,United States
+338,Ãcole Universitaire de Recherche d'Ãconomie et de Management (ELMI)                  ,"Nice, France                           ",UniversitÃ© CÃ´te d'Azur,France
+338,Department of Economics                                                              ,"Newark, Delaware (USA)                 ","Lerner College of Business and Economics, University of Delaware",United States
+339,Department of International Development (Queen Elizabeth House)                      ,"Oxford, United Kingdom                 ",Oxford University,United Kingdom
+340,Fachbereich Wirtschaftswissenschaft                                                  ,"Berlin, Germany                        ",Freie UniversitÃ¤t Berlin,Germany
+341,School of Business                                                                   ,"Leicester, United Kingdom              ",Leicester University,Unknown
+341,Dipartimento di Economia                                                             ,"Milano, Italy                          ","Metodi Quantitativi e Strategie d'Impresa (DEMS), Scuola di Economia e Statistica, UniversitÃ  degli Studi di Milano-Bicocca",Italy
+342,Facultad de Ciencia EconÃ³micas y Administrativas                                     ,"Santiago, Chile                        ",Pontificia Universidad CatÃ³lica de Chile,Unknown
+342,Social Policy Evaluation                                                             ,"Canberra, Australia                    ","Analysis and Research Centre (SPEAR), Research School of Economics, College of Business and Economics, Australian National University",Australia
+342,Department of Economics                                                              ,"Hamilton, New Zealand                  ","Waikato Management School, University of Waikato",New Zealand
+342,Amsterdam School of Economics                                                        ,"Amsterdam, Netherlands                 ","Faculteit Economie en Bedrijfskunde, Universiteit van Amsterdam",Netherlands
+342,DÃ¼sseldorf Institute for Competition Economics (DICE)                                ,"DÃ¼sseldorf, Germany                    ","Wirtschaftswissenschaftliche FakultÃ¤t, Heinriche-Heine-UniversitÃ¤t DÃ¼sseldorf",Germany
+342,Dipartimento di Economia e Diritto                                                   ,"Roma, Italy                            ","FacoltÃ  di Economia, Sapienza UniversitÃ  di Roma",Italy
+343,                                                                                     ,"Tokyo, Japan                           ",National Graduate Institute for Policy Studies (GRIPS),Japan
+344,Gordon Lang School of Business and Economics                                         ,"Guelph, Canada                         ",University of Guelph,Canada
+344,Groupe de REcherche en Droit                                                         ,"Nice, France                           ","Ãconomie, Gestion (GREDEG), Ãcole Universitaire de Recherche d'Ãconomie et de Management (ELMI), UniversitÃ© CÃ´te d'Azur",France
+345,Business School                                                                      ,"Sydney, Australia                      ",University of Sydney,Australia
+346,Culverhouse College of Business                                                      ,"Tuscaloosa, Alabama (USA)              ",University of Alabama-Tuscaloosa,United States
+347,DÃ©partement de Sciences Ãconomiques                                                  ,"MontrÃ©al, Canada                       ",Universite de Montreal,Canada
+348,Ãcole des Sciences de la Gestion (ESG)                                               ,"MontrÃ©al, Canada                       ",UniversitÃ© du QuÃ©bec Ã  MontrÃ©al (UQAM),Canada
+349,                                                                                     ,"Kansas City, Missouri (USA)            ",Federal Reserve Bank of Kansas City,United States
+349,Finance Department                                                                   ,"College Park, Maryland (USA)           ","Robert H. Smith School of Business, University of Maryland",United States
+350,Department of Agricultural and Consumer Economics                                    ,"Urbana-Champaign, Illinois (USA)       ",University of Illinois at Urbana-Champaign,United States
+350,Department of Economics                                                              ,"Lancaster, United Kingdom              ","Management School, Lancaster University",United Kingdom
+351,Warwick Business School                                                              ,"Coventry, United Kingdom               ",University of Warwick,Unknown
+352,Faculty of Economics and Management                                                  ,"Nicosia, Cyprus                        ",University of Cyprus,Unknown
+353,Department of Economics                                                              ,"Dallas, Texas (USA)                    ",Southern Methodist University,United States
+353,Department of Economics                                                              ,"Pittsburgh, Pennsylvania (USA)         ","Tepper School of Business Administration, Carnegie Mellon University",United States
+353,Department of Management                                                             ,"London, United Kingdom                 ",London School of Economics (LSE),United Kingdom
+354,Department of Economics                                                              ,"Edmonton, Canada                       ",University of Alberta,Canada
+355,                                                                                     ,"Dublin, Ireland                        ",Economic and Social Research Institute (ESRI),Ireland
+356,Business School                                                                      ,"Kowloon, Hong Kong                     ",Hong Kong University of Science and Technology (HKUST),Hong Kong
+357,Department of Economics                                                              ,"Sheffield, United Kingdom              ",University of Sheffield,Unknown
+358,Department of Economics                                                              ,"Tallahassee, Florida (USA)             ",Florida State University,United States
+359,Department of Agricultural & Applied Economics                                       ,"Madison, Wisconsin (USA)               ",University of Wisconsin-Madison,United States
+360,Questrom School of Business                                                          ,"Boston, Massachusetts (USA)            ",Boston University,United States
+361,                                                                                     ,"Praha, Czech Republic                  ",Center for Economic Research and Graduate Education and Economics Institute (CERGE-EI),Unknown
+362,                                                                                     ,"Nancy/Strasbourg, France               ",Bureau d'Ãconomie ThÃ©orique et AppliquÃ©e (BETA),France
+363,Kauppakorkeakoulu                                                                    ,"Helsinki, Finland                      ",Aalto-yliopisto,Unknown
+364,McCombs School of Business                                                           ,"Austin, Texas (USA)                    ",University of Texas-Austin,United States
+365,Business School                                                                      ,"London, United Kingdom                 ",King's College London,United Kingdom
+366,Business School                                                                      ,"Perth, Australia                       ",University of Western Australia,Australia
+367,                                                                                     ,"Halle, Germany                         ",Leibniz-Institut fÃ¼r Wirtschaftsforschung Halle (IWH),Germany
+368,Groupe d'Analyse et de ThÃ©orie Ãconomique Lyon St-Ãtienne (GATE Lyon St-Ãtienne)     ,"Lyon, France                           ",UniversitÃ© de Lyon,France
+369,Institute for Policy Research (IPR)                                                  ,"Evanston, Illinois (USA)               ",Northwestern University,United States
+369,Department Volkswirtschaft                                                           ,"Wien, Austria                          ",WU WirtschaftsuniversitÃ¤t Wien,Unknown
+369,Centre for the Study of African Economies (CSAE)                                     ,"Oxford, United Kingdom                 ","Department of Economics, Oxford University",United Kingdom
+370,Department of Economics                                                              ,"Chicago, Illinois (USA)                ",University of Illinois at Chicago,United States
+371,Business School                                                                      ,"Auckland, New Zealand                  ",University of Auckland,New Zealand
+372,Department of Economics                                                              ,"New York City, New York (USA)          ","Graduate Center, City University of New York (CUNY)",United States
+372,Research in Economics and Mathematics (REM)                                          ,"Lisboa, Portugal                       ","Instituto Superior de Economia e GestÃ£o (ISEG), Universidade de Lisboa",Portugal
+373,                                                                                     ,"Essen, Germany                         ",RWI - Leibniz-Institut fÃ¼r Wirtschaftsforschung,Germany
+374,Wellington School of Business and Government                                         ,"Wellington, New Zealand                ",Victoria University of Wellington,New Zealand
+375,Dipartimento di Economia e Finanza (DEF)                                             ,"Roma, Italy                            ",Libera UniversitÃ  Internazionale degli Studi Sociali Guido Carli (LUISS),Italy
+376,School of Business                                                                   ,"Madison, Wisconsin (USA)               ",University of Wisconsin-Madison,United States
+377,Ãcole d'Ãconomie                                                                     ,"Clermont-Ferrand, France               ",UniversitÃ© Clermont Auvergne,France
+378,Johnson Graduate School of Management                                                ,"Ithaca, New York (USA)                 ",Cornell University,United States
+378,Department of Economics and Finance                                                  ,"Guelph, Canada                         ","Gordon Lang School of Business and Economics, University of Guelph",Canada
+379,Business School                                                                      ,"Durham, United Kingdom                 ",Durham University,United Kingdom
+380,Gerald R. Ford School of Public Policy                                               ,"Ann Arbor, Michigan (USA)              ",University of Michigan,United States
+381,Department of Economics                                                              ,"Riverside, California (USA)            ",University of California-Riverside,United States
+382,Institut fÃ¼r Volkswirtschaftslehre                                                   ,"Kiel, Germany                          ",Christian-Albrechts-UniversitÃ¤t Kiel,Germany
+382,Department of Economics                                                              ,"Nicosia, Cyprus                        ","Faculty of Economics and Management, University of Cyprus",Unknown
+383,Collegio Carlo Alberto                                                               ,"Torino, Italy                          ",UniversitÃ  degli Studi di Torino,Italy
+383,DÃ©partement des Sciences Ãconomiques                                                 ,"MontrÃ©al, Canada                       ","Ãcole des Sciences de la Gestion (ESG), UniversitÃ© du QuÃ©bec Ã  MontrÃ©al (UQAM)",Canada
+383,Dipartimento di Scienze Economiche e Sociali                                         ,"Ancona, Italy                          ","FacoltÃ  di Economia Giorgio FuÃ , UniversitÃ  Politecnica delle Marche",Italy
+384,Faculty of Economic and Management Sciences                                          ,"Pretoria, South Africa                 ",University of Pretoria,South Africa
+384,Department of Finance                                                                ,"Stockholm, Sweden                      ",Stockholm School of Economics,Sweden
+385,FacultÃ© de droit                                                                     ,"OrlÃ©ans, France                        ","d'Ã©conomie et de gestion, UniversitÃ© d'OrlÃ©ans",France
+386,International Economics Department                                                   ,"Washington, District of Columbia (USA) ","School of Advanced International Studies, Johns Hopkins University",United States
+386,Centre for Decision Research and Experimental Economics (CeDEx)                      ,"Nottingham, United Kingdom             ","School of Economics, University of Nottingham",United Kingdom
+386,Centre for Applied Macroeconomic Analysis (CAMA)                                     ,"Canberra, Australia                    ","Crawford School of Public Policy, Australian National University",Australia
+386,Financial Markets Group (FMG)                                                        ,"London, United Kingdom                 ",London School of Economics (LSE),United Kingdom
+387,Max-Planck-Institut zur Erforschung von GemeinschaftsgÃ¼tern                          ,"Bonn, Germany                          ",Max-Planck-Gesellschaft,Germany
+387,Centre d'Ãtudes et de Recherches sur le DÃ©veloppement International (CERDI)          ,"Clermont-Ferrand, France               ","Ãcole d'Ãconomie, UniversitÃ© Clermont Auvergne",France
+388,Frank Batten School of Leadership and Public Policy                                  ,"Charlottesville, Virginia (USA)        ",University of Virginia,United States
+389,                                                                                     ,"Warszawa, Poland                       ",SzkoÅa GÅÃ³wna Handlowa w Warszawie,Poland
+390,School of Economics and Management                                                   ,"Beijing, China                         ",Tsinghua University,China
+391,                                                                                     ,"Athens, Greece                         ",Bank of Greece,Greece
+392,Spears School of Business                                                            ,"Stillwater, Oklahoma (USA)             ",Oklahoma State University,United States
+392,Laboratoire d'Ãconomie d'OrlÃ©ans (LEO)                                               ,"OrlÃ©ans, France                        ","FacultÃ© de droit, d'Ã©conomie et de gestion, UniversitÃ© d'OrlÃ©ans",France
+392,Dipartimento di Economia e Finanza                                                   ,"Milano, Italy                          ","Dipartimenti e Istituti di Scienze Economiche, UniversitÃ  Cattolica del Sacro Cuore",Italy
+393,                                                                                     ,"Wien, Austria                          ",Oesterreichische Nationalbank,Unknown
+394,Wirtschaftswissenschaftlichen FakultÃ¤t                                               ,"TÃ¼bingen, Germany                      ",Eberhard-Karls-UniversitÃ¤t TÃ¼bingen,Germany
+395,College of Business                                                                  ,"Boca Raton, Florida (USA)              ",Florida Atlantic University,United States
+395,Department of Economics                                                              ,"Pretoria, South Africa                 ","Faculty of Economic and Management Sciences, University of Pretoria",South Africa
+395,Managerial Economics and Decision Sciences (MEDS)                                    ,"Evanston, Illinois (USA)               ","Kellogg Graduate School of Management, Northwestern University",United States
+395,Department of Business Economics and Public Policy                                   ,"Ann Arbor, Michigan (USA)              ","Ross School of Business, University of Michigan",United States
+395,Mossavar-Rahmani Center for Business and Government                                  ,"Cambridge, Massachusetts (USA)         ","Harvard Kennedy School, Harvard University",United States
+395,Department of Economics                                                              ,"Tuscaloosa, Alabama (USA)              ","Finance and Legal Studies, Culverhouse College of Business, University of Alabama-Tuscaloosa",United States
+396,Schar School of Policy and Government                                                ,"Arlington, Virginia (USA)              ",George Mason University,United States
+396,Department of Finance                                                                ,"Urbana-Champaign, Illinois (USA)       ","College of Business, University of Illinois at Urbana-Champaign",United States
+397,School of Public and Environmental Affairs                                           ,"Bloomington, Indiana (USA)             ",Indiana University,United States
+398,Dipartimento di Scienze Economico-Sociali e Matematico-Statistiche                   ,"Torino, Italy                          ",UniversitÃ  degli Studi di Torino,Italy
+398,DÃ©partement d'Ãconomie et de Management                                              ,"Luxembourg, Luxembourg                 ","FacultÃ© de droit, d'Ã©conomie et de finance, UniversitÃ© du Luxembourg",Luxembourg
+398,Institutt for SamfunnsÃ¸konomi                                                        ,"Oslo, Norway                           ",BI HandelshÃ¸yskolen,Norway
+398,Groningen Growth and Development Centre (GGDC)                                       ,"Groningen, Netherlands                 ","Faculteit Economie en Bedrijfskunde, Rijksuniversiteit Groningen",Netherlands
+398,Department of Finance                                                                ,"Austin, Texas (USA)                    ","McCombs School of Business, University of Texas-Austin",United States
+399,Haslam College of Business                                                           ,"Knoxville, Tennessee (USA)             ",University of Tennessee-Knoxville,United States
+399,Bendheim Center for Finance                                                          ,"Princeton, New Jersey (USA)            ","Department of Economics, Princeton University",United States
+399,Unitat de Fonaments de l'AnÃ lisi EconÃ²mica                                           ,"Barcelona, Spain                       ","Departament d'Economia i HistÃ²ria EconÃ²mica, Universitat AutÃ²noma de Barcelona, Barcelona School of Economics (BSE)",Spain
+400,Department of Economics and Finance                                                  ,"Uxbridge, United Kingdom               ",Brunel University London,United Kingdom
+400,Robert D. Burch Center for Tax Policy and Public Finance                             ,"Berkeley, California (USA)             ","Department of Economics, University of California-Berkeley",United States
+400,Institut de Recherche Ãconomique et Sociale (IRES)                                   ,"Louvain-la-Neuve, Belgium              ","Louvain Institute of Data Analysis and Modelling in Economics and Statistics (LIDAM), UniversitÃ© Catholique de Louvain",Belgium
+400,Department of Economics                                                              ,"Auckland, New Zealand                  ","Business School, University of Auckland",New Zealand
+401,School of Economics and Public Policy                                                ,"Adelaide, Australia                    ",University of Adelaide,Australia
+401,ESRC Centre for the Microeconomic Analysis of Public Policy (CPP)                    ,"London, United Kingdom                 ",Institute for Fiscal Studies (IFS),United Kingdom
+401,Department of Economics                                                              ,"Exeter, United Kingdom                 ","Business School, University of Exeter",United Kingdom
+402,Department of Economics                                                              ,"Ramat-Gan, Israel                      ",Bar Ilan University,Unknown
+403,FakultÃ¤t fÃ¼r Volkswirtschaft und Statistik                                           ,"Innsbruck, Austria                     ",Leopold-Franzens-UniversitÃ¤t Innsbruck,Unknown
+403,School of Economics                                                                  ,"Philadelphia, Pennsylvania (USA)       ","LeBow College of Business, Drexel University",United States
+404,McCourt School of Public Policy                                                      ,"Washington, District of Columbia (USA) ",Georgetown University,United States
+405,Carlson School of Management                                                         ,"Minneapolis, Minnesota (USA)           ",University of Minnesota,United States
+406,Michael G. Foster School of Business                                                 ,"Seattle, Washington (USA)              ",University of Washington,United States
+407,Graduate School of Management                                                        ,"Davis, California (USA)                ",University of California-Davis,United States
+408,FacoltÃ  di Economia / Wirtschaftswissenschaftliche FakutÃ¤t                           ,"Bozen-Bolzano, Italy                   ",Libera UniversitÃ  di Bolzano / Freie UniversitÃ¤t Bozen,Unknown
+409,                                                                                     ,"Helsinki, Finland                      ",Suomen Pankki,Unknown
+410,Scheller College of Business                                                         ,"Atlanta, Georgia (USA)                 ",Georgia Institute of Technology,United States
+411,Business School                                                                      ,"Singapore, Singapore                   ",National University of Singapore (NUS),Singapore
+412,                                                                                     ,"Manila, Philippines                    ",Asian Development Bank,Philippines
+413,David Eccles School of Business                                                      ,"Salt Lake City, Utah (USA)             ",University of Utah,United States
+414,Carey Business School                                                                ,"Baltimore, Maryland (USA)              ",Johns Hopkins University,United States
+415,Ä°ktisat BÃ¶lÃ¼mÃ¼                                                                       ,"Ankara, Turkey                         ",Bilkent Ãniversitesi,Turkey
+416,Department of Economics                                                              ,"Victoria, Canada                       ",University of Victoria,Canada
+417,Department of Economics                                                              ,"Manoa, Hawaii (USA)                    ",University of Hawaii-Manoa,United States
+418,Economics Department                                                                 ,"Milwaukee, Wisconsin (USA)             ",University of Wisconsin,United States
+419,Wallace E. Carroll School of Management                                              ,"Chestnut Hill, Massachusetts (USA)     ",Boston College,United States
+420,Directorate-General Economic and Financial Affairs (ECFIN)                           ,"Bruxelles/Brussel, Belgium             ",European Commission,Belgium
+421,Wirtschaftswissenschaftliche FakultÃ¤t                                                ,"GÃ¶ttingen, Germany                     ",Georg-August-UniversitÃ¤t GÃ¶ttingen,Germany
+422,Smeal College of Business Administration                                             ,"State College, Pennsylvania (USA)      ",Pennsylvania State University,United States
+423,Stiftelsen Frischsenteret for samfunnsÃ¸konomisk forskning                            ,"Oslo, Norway                           ",Universitetet i Oslo,Norway
+424,Department of Global Health and Population                                           ,"Cambridge, Massachusetts (USA)         ","Harvard T. H. Chan School of Public Health, Harvard University",United States
+424,Instituto de EconomÃ­a                                                                ,"Santiago, Chile                        ","Facultad de Ciencia EconÃ³micas y Administrativas, Pontificia Universidad CatÃ³lica de Chile",Unknown
+424,China Economics and Management Academy                                               ,"Beijing, China                         ",Central University of Finance and Economics (CUFE),China
+425,Department of Land Economy                                                           ,"Cambridge, United Kingdom              ",University of Cambridge,United Kingdom
+426,Wirtschaftswissenschaftliche FakultÃ¤t                                                ,"Hannover, Germany                      ",Leibniz UniversitÃ¤t Hannover,Germany
+427,Wirtschafts- und Sozialwissenschaftliche FakultÃ¤t                                    ,"Erlangen-NÃ¼rnberg, Germany             ",Friedrich-Alexander-UniversitÃ¤t Erlangen-NÃ¼rnberg,Germany
+428,Department of Economics                                                              ,"London, United Kingdom                 ","Mathematics and Statistics, Birkbeck College",United Kingdom
+429,Institute of Economics                                                               ,"Taipei, Taiwan                         ",Academia Sinica,Unknown
+430,Research Institute for Economics and Business Administration (RIEB)                  ,"Kobe, Japan                            ",Kobe University,Japan
+430,Directorate for Employment                                                           ,"Paris, France                          ","Labour and Social Affairs (ELS), Organisation de CoopÃ©ration et de DÃ©veloppement Ãconomiques (OCDE)",France
+431,Luxembourg Institute of Socio-Economic Research (LISER                               ,"Esch-sur-Alzette, Luxembourg           ",CEPS/INSTEAD),Luxembourg
+432,Business School                                                                      ,"Nottingham, United Kingdom             ",University of Nottingham,United Kingdom
+433,Henley Business School                                                               ,"Reading, United Kingdom                ",University of Reading,United Kingdom
+434,Division of Economics                                                                ,"Singapore, Singapore                   ",Nanyang Technological University,Singapore
+435,Department of Economics                                                              ,"Dallas, Texas (USA)                    ",University of Texas-Dallas,United States
+435,Department of Social Policy                                                          ,"London, United Kingdom                 ",London School of Economics (LSE),United Kingdom
+436,                                                                                     ,"Moscow, Russia                         ",New Economic School (NES),Russian Federation
+436,Department of Economics                                                              ,"Perth, Australia                       ","Business School, University of Western Australia",Australia
+437,Essex Business School                                                                ,"Colchester, United Kingdom             ",University of Essex,United Kingdom
+438,Department of Economics                                                              ,"Binghamton, New York (USA)             ",State University of New York-Binghamton (SUNY),United States
+439,Alliance Manchester Business School                                                  ,"Manchester, United Kingdom             ",University of Manchester,Unknown
+440,Faculty of Commerce                                                                  ,"Cape Town, South Africa                ",University of Cape Town,South Africa
+441,School of Business                                                                   ,"Edmonton, Canada                       ",University of Alberta,Canada
+442,School of Global Policy and Strategy                                                 ,"La Jolla, California (USA)             ",University of California-San Diego (UCSD),United States
+443,School of Economics                                                                  ,"Norwich, United Kingdom                ",University of East Anglia,United Kingdom
+444,Hankamer School of Business                                                          ,"Waco, Texas (USA)                      ",Baylor University,United States
+444,Ãkonomisk Institut                                                                   ,"Frederiksberg, Denmark                 ",Copenhagen Business School,Denmark
+444,Unidade de Estudos sobre Complexidade e Economia (UECE)                              ,"Lisboa, Portugal                       ","Research in Economics and Mathematics (REM), Instituto Superior de Economia e GestÃ£o (ISEG), Universidade de Lisboa",Portugal

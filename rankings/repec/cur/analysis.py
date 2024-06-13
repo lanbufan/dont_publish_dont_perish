@@ -85,12 +85,18 @@ data_df['GenderBinary'] = data_df['Gender'].map({'Male': 0, 'Female': 1})
 
 print('gender')
 dev_log = input()
+dev_log = input()
+dev_log = input()
 
 from ethnicolr import pred_fl_reg_ln, pred_fl_reg_name
 
 data_df = get_ethn(data_df)
 print('eth')
 dev_log = input()
+
+flag_save = False
+if flag_save == True:
+    data_df.to_csv('man_inspec_gender_race.csv')
 
 ######################
 # PREDICTIVE MODEL
